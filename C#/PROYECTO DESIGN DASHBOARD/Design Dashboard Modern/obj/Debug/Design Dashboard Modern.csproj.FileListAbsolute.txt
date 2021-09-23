@@ -1,0 +1,363 @@
+C:\Users\rhaeg\source\repos\FormsView\Design Dashboard Modern\Design Dashboard Modern\bin\Debug\Design Dashboard Modern.exe.config
+C:\Users\rhaeg\source\repos\FormsView\Design Dashboard Modern\Design Dashboard Modern\bin\Debug\Design Dashboard Modern.exe
+C:\Users\rhaeg\source\repos\FormsView\Design Dashboard Modern\Design Dashboard Modern\bin\Debug\Design Dashboard Modern.pdb
+C:\Users\rhaeg\source\repos\FormsView\Design Dashboard Modern\Design Dashboard Modern\obj\Debug\Design Dashboard Modern.csprojAssemblyReference.cache
+C:\Users\rhaeg\source\repos\FormsView\Design Dashboard Modern\Design Dashboard Modern\obj\Debug\Design_Dashboard_Modern.Form1.resources
+C:\Users\rhaeg\source\repos\FormsView\Design Dashboard Modern\Design Dashboard Modern\obj\Debug\Design_Dashboard_Modern.Properties.Resources.resources
+C:\Users\rhaeg\source\repos\FormsView\Design Dashboard Modern\Design Dashboard Modern\obj\Debug\Design Dashboard Modern.csproj.GenerateResource.cache
+C:\Users\rhaeg\source\repos\FormsView\Design Dashboard Modern\Design Dashboard Modern\obj\Debug\Design Dashboard Modern.csproj.CoreCompileInputs.cache
+C:\Users\rhaeg\source\repos\FormsView\Design Dashboard Modern\Design Dashboard Modern\obj\Debug\Design Dashboard Modern.exe
+C:\Users\rhaeg\source\repos\FormsView\Design Dashboard Modern\Design Dashboard Modern\obj\Debug\Design Dashboard Modern.pdb
+C:\Users\rhaeg\source\repos\FormsView\Design Dashboard Modern\Design Dashboard Modern\bin\Debug\Bunifu_UI_v1.5.3.dll
+C:\Users\rhaeg\source\repos\FormsView\Design Dashboard Modern\Design Dashboard Modern\obj\Debug\Design Dashboard Modern.csproj.CopyComplete
+C:\Users\Laise\Desktop\Design Dashboard Modern\PROYECTO DESIGN DASHBOARD\Design Dashboard Modern\bin\Debug\Design Dashboard Modern.exe.config
+C:\Users\Laise\Desktop\Design Dashboard Modern\PROYECTO DESIGN DASHBOARD\Design Dashboard Modern\bin\Debug\Design Dashboard Modern.exe
+C:\Users\Laise\Desktop\Design Dashboard Modern\PROYECTO DESIGN DASHBOARD\Design Dashboard Modern\bin\Debug\Design Dashboard Modern.pdb
+C:\Users\Laise\Desktop\Design Dashboard Modern\PROYECTO DESIGN DASHBOARD\Design Dashboard Modern\obj\Debug\Design Dashboard Modern.csprojAssemblyReference.cache
+C:\Users\Laise\Desktop\Design Dashboard Modern\PROYECTO DESIGN DASHBOARD\Design Dashboard Modern\obj\Debug\Design_Dashboard_Modern.Form1.resources
+C:\Users\Laise\Desktop\Design Dashboard Modern\PROYECTO DESIGN DASHBOARD\Design Dashboard Modern\obj\Debug\Design_Dashboard_Modern.Properties.Resources.resources
+C:\Users\Laise\Desktop\Design Dashboard Modern\PROYECTO DESIGN DASHBOARD\Design Dashboard Modern\obj\Debug\Design Dashboard Modern.csproj.GenerateResource.cache
+C:\Users\Laise\Desktop\Design Dashboard Modern\PROYECTO DESIGN DASHBOARD\Design Dashboard Modern\obj\Debug\Design Dashboard Modern.csproj.CoreCompileInputs.cache
+C:\Users\Laise\Desktop\Design Dashboard Modern\PROYECTO DESIGN DASHBOARD\Design Dashboard Modern\obj\Debug\Design Dashboard Modern.csproj.CopyComplete
+C:\Users\Laise\Desktop\Design Dashboard Modern\PROYECTO DESIGN DASHBOARD\Design Dashboard Modern\obj\Debug\Design Dashboard Modern.exe
+C:\Users\Laise\Desktop\Design Dashboard Modern\PROYECTO DESIGN DASHBOARD\Design Dashboard Modern\obj\Debug\Design Dashboard Modern.pdb
+C:\Users\Laise\Desktop\19_08\PROYECTO DESIGN DASHBOARD\Design Dashboard Modern\obj\Debug\Design Dashboard Modern.csprojAssemblyReference.cache
+C:\Users\Laise\Desktop\19_08\PROYECTO DESIGN DASHBOARD\Design Dashboard Modern\obj\Debug\Design Dashboard Modern.exe.config
+C:\Users\Laise\Desktop\19_08\PROYECTO DESIGN DASHBOARD\Design Dashboard Modern\obj\Debug\Design_Dashboard_Modern.Cadastro_de_Equipamentos.resources
+C:\Users\Laise\Desktop\19_08\PROYECTO DESIGN DASHBOARD\Design Dashboard Modern\obj\Debug\Design_Dashboard_Modern.Form1.resources
+C:\Users\Laise\Desktop\19_08\PROYECTO DESIGN DASHBOARD\Design Dashboard Modern\obj\Debug\Design_Dashboard_Modern.login.resources
+C:\Users\Laise\Desktop\19_08\PROYECTO DESIGN DASHBOARD\Design Dashboard Modern\obj\Debug\Design_Dashboard_Modern.Properties.Resources.resources
+C:\Users\Laise\Desktop\19_08\PROYECTO DESIGN DASHBOARD\Design Dashboard Modern\obj\Debug\Design Dashboard Modern.csproj.GenerateResource.cache
+C:\Users\Laise\Desktop\19_08\PROYECTO DESIGN DASHBOARD\Design Dashboard Modern\obj\Debug\Design Dashboard Modern.csproj.CoreCompileInputs.cache
+C:\Users\Laise\Desktop\19_08\PROYECTO DESIGN DASHBOARD\Design Dashboard Modern\obj\Debug\Design Dashboard Modern.exe
+C:\Users\Laise\Desktop\19_08\PROYECTO DESIGN DASHBOARD\Design Dashboard Modern\obj\Debug\Design Dashboard Modern.pdb
+C:\Users\Laise\Desktop\19_08_2\PROYECTO DESIGN DASHBOARD\Design Dashboard Modern\obj\Debug\Design Dashboard Modern.csprojAssemblyReference.cache
+C:\Users\Laise\Desktop\19_08_2\PROYECTO DESIGN DASHBOARD\Design Dashboard Modern\obj\Debug\Design Dashboard Modern.exe.config
+C:\Users\Laise\Desktop\19_08_2\PROYECTO DESIGN DASHBOARD\Design Dashboard Modern\obj\Debug\Design_Dashboard_Modern.Cadastro_de_Equipamentos.resources
+C:\Users\Laise\Desktop\19_08_2\PROYECTO DESIGN DASHBOARD\Design Dashboard Modern\obj\Debug\Design_Dashboard_Modern.Form1.resources
+C:\Users\Laise\Desktop\19_08_2\PROYECTO DESIGN DASHBOARD\Design Dashboard Modern\obj\Debug\Design_Dashboard_Modern.inicio.resources
+C:\Users\Laise\Desktop\19_08_2\PROYECTO DESIGN DASHBOARD\Design Dashboard Modern\obj\Debug\Design_Dashboard_Modern.login.resources
+C:\Users\Laise\Desktop\19_08_2\PROYECTO DESIGN DASHBOARD\Design Dashboard Modern\obj\Debug\Design_Dashboard_Modern.painelControle.resources
+C:\Users\Laise\Desktop\19_08_2\PROYECTO DESIGN DASHBOARD\Design Dashboard Modern\obj\Debug\Design_Dashboard_Modern.Properties.Resources.resources
+C:\Users\Laise\Desktop\19_08_2\PROYECTO DESIGN DASHBOARD\Design Dashboard Modern\obj\Debug\Design Dashboard Modern.csproj.GenerateResource.cache
+C:\Users\Laise\Desktop\19_08_2\PROYECTO DESIGN DASHBOARD\Design Dashboard Modern\obj\Debug\Design Dashboard Modern.csproj.CoreCompileInputs.cache
+C:\Users\Laise\Desktop\19_08_2\PROYECTO DESIGN DASHBOARD\Design Dashboard Modern\obj\Debug\Design Dashboard Modern.exe
+C:\Users\Laise\Desktop\19_08_2\PROYECTO DESIGN DASHBOARD\Design Dashboard Modern\obj\Debug\Design Dashboard Modern.pdb
+C:\Users\Laise\Desktop\19_08_3\PROYECTO DESIGN DASHBOARD\Design Dashboard Modern\obj\Debug\Design Dashboard Modern.csprojAssemblyReference.cache
+C:\Users\Laise\Desktop\19_08_3\PROYECTO DESIGN DASHBOARD\Design Dashboard Modern\obj\Debug\Design Dashboard Modern.exe.config
+C:\Users\Laise\Desktop\19_08_3\PROYECTO DESIGN DASHBOARD\Design Dashboard Modern\obj\Debug\Design_Dashboard_Modern.Cadastro_de_Equipamentos.resources
+C:\Users\Laise\Desktop\19_08_3\PROYECTO DESIGN DASHBOARD\Design Dashboard Modern\obj\Debug\Design_Dashboard_Modern.chuveiro.resources
+C:\Users\Laise\Desktop\19_08_3\PROYECTO DESIGN DASHBOARD\Design Dashboard Modern\obj\Debug\Design_Dashboard_Modern.Form1.resources
+C:\Users\Laise\Desktop\19_08_3\PROYECTO DESIGN DASHBOARD\Design Dashboard Modern\obj\Debug\Design_Dashboard_Modern.maquina_lavar.resources
+C:\Users\Laise\Desktop\19_08_3\PROYECTO DESIGN DASHBOARD\Design Dashboard Modern\obj\Debug\Design_Dashboard_Modern.geladeira.resources
+C:\Users\Laise\Desktop\19_08_3\PROYECTO DESIGN DASHBOARD\Design Dashboard Modern\obj\Debug\Design_Dashboard_Modern.inicio.resources
+C:\Users\Laise\Desktop\19_08_3\PROYECTO DESIGN DASHBOARD\Design Dashboard Modern\obj\Debug\Design_Dashboard_Modern.lampada.resources
+C:\Users\Laise\Desktop\19_08_3\PROYECTO DESIGN DASHBOARD\Design Dashboard Modern\obj\Debug\Design_Dashboard_Modern.login.resources
+C:\Users\Laise\Desktop\19_08_3\PROYECTO DESIGN DASHBOARD\Design Dashboard Modern\obj\Debug\Design_Dashboard_Modern.micro_ondas.resources
+C:\Users\Laise\Desktop\19_08_3\PROYECTO DESIGN DASHBOARD\Design Dashboard Modern\obj\Debug\Design_Dashboard_Modern.painelControle.resources
+C:\Users\Laise\Desktop\19_08_3\PROYECTO DESIGN DASHBOARD\Design Dashboard Modern\obj\Debug\Design_Dashboard_Modern.Properties.Resources.resources
+C:\Users\Laise\Desktop\19_08_3\PROYECTO DESIGN DASHBOARD\Design Dashboard Modern\obj\Debug\Design_Dashboard_Modern.roteador.resources
+C:\Users\Laise\Desktop\19_08_3\PROYECTO DESIGN DASHBOARD\Design Dashboard Modern\obj\Debug\Design_Dashboard_Modern.splash.resources
+C:\Users\Laise\Desktop\19_08_3\PROYECTO DESIGN DASHBOARD\Design Dashboard Modern\obj\Debug\Design_Dashboard_Modern.tv.resources
+C:\Users\Laise\Desktop\19_08_3\PROYECTO DESIGN DASHBOARD\Design Dashboard Modern\obj\Debug\Design Dashboard Modern.csproj.GenerateResource.cache
+C:\Users\Laise\Desktop\19_08_3\PROYECTO DESIGN DASHBOARD\Design Dashboard Modern\obj\Debug\Design Dashboard Modern.csproj.CoreCompileInputs.cache
+C:\Users\Laise\Desktop\19_08_3\PROYECTO DESIGN DASHBOARD\Design Dashboard Modern\obj\Debug\Design Dashboard Modern.exe
+C:\Users\Laise\Desktop\19_08_3\PROYECTO DESIGN DASHBOARD\Design Dashboard Modern\obj\Debug\Design Dashboard Modern.pdb
+C:\Users\Pedro\Desktop\TCC_Ppnx\270820\PROYECTO DESIGN DASHBOARD\Design Dashboard Modern\bin\Debug\Design Dashboard Modern.exe.config
+C:\Users\Pedro\Desktop\TCC_Ppnx\270820\PROYECTO DESIGN DASHBOARD\Design Dashboard Modern\bin\Debug\Design Dashboard Modern.exe
+C:\Users\Pedro\Desktop\TCC_Ppnx\270820\PROYECTO DESIGN DASHBOARD\Design Dashboard Modern\bin\Debug\Design Dashboard Modern.pdb
+C:\Users\Pedro\Desktop\TCC_Ppnx\270820\PROYECTO DESIGN DASHBOARD\Design Dashboard Modern\bin\Debug\MySql.Data.dll
+C:\Users\Pedro\Desktop\TCC_Ppnx\270820\PROYECTO DESIGN DASHBOARD\Design Dashboard Modern\obj\Debug\Design Dashboard Modern.csprojAssemblyReference.cache
+C:\Users\Pedro\Desktop\TCC_Ppnx\270820\PROYECTO DESIGN DASHBOARD\Design Dashboard Modern\obj\Debug\Design_Dashboard_Modern.Cadastro_de_Equipamentos.resources
+C:\Users\Pedro\Desktop\TCC_Ppnx\270820\PROYECTO DESIGN DASHBOARD\Design Dashboard Modern\obj\Debug\Design_Dashboard_Modern.chuveiro.resources
+C:\Users\Pedro\Desktop\TCC_Ppnx\270820\PROYECTO DESIGN DASHBOARD\Design Dashboard Modern\obj\Debug\Design_Dashboard_Modern.computador.resources
+C:\Users\Pedro\Desktop\TCC_Ppnx\270820\PROYECTO DESIGN DASHBOARD\Design Dashboard Modern\obj\Debug\Design_Dashboard_Modern.Form1.resources
+C:\Users\Pedro\Desktop\TCC_Ppnx\270820\PROYECTO DESIGN DASHBOARD\Design Dashboard Modern\obj\Debug\Design_Dashboard_Modern.maquina_lavar.resources
+C:\Users\Pedro\Desktop\TCC_Ppnx\270820\PROYECTO DESIGN DASHBOARD\Design Dashboard Modern\obj\Debug\Design_Dashboard_Modern.geladeira.resources
+C:\Users\Pedro\Desktop\TCC_Ppnx\270820\PROYECTO DESIGN DASHBOARD\Design Dashboard Modern\obj\Debug\Design_Dashboard_Modern.inicio.resources
+C:\Users\Pedro\Desktop\TCC_Ppnx\270820\PROYECTO DESIGN DASHBOARD\Design Dashboard Modern\obj\Debug\Design_Dashboard_Modern.lampada.resources
+C:\Users\Pedro\Desktop\TCC_Ppnx\270820\PROYECTO DESIGN DASHBOARD\Design Dashboard Modern\obj\Debug\Design_Dashboard_Modern.login.resources
+C:\Users\Pedro\Desktop\TCC_Ppnx\270820\PROYECTO DESIGN DASHBOARD\Design Dashboard Modern\obj\Debug\Design_Dashboard_Modern.micro_ondas.resources
+C:\Users\Pedro\Desktop\TCC_Ppnx\270820\PROYECTO DESIGN DASHBOARD\Design Dashboard Modern\obj\Debug\Design_Dashboard_Modern.painelControle.resources
+C:\Users\Pedro\Desktop\TCC_Ppnx\270820\PROYECTO DESIGN DASHBOARD\Design Dashboard Modern\obj\Debug\Design_Dashboard_Modern.Properties.Resources.resources
+C:\Users\Pedro\Desktop\TCC_Ppnx\270820\PROYECTO DESIGN DASHBOARD\Design Dashboard Modern\obj\Debug\Design_Dashboard_Modern.roteador.resources
+C:\Users\Pedro\Desktop\TCC_Ppnx\270820\PROYECTO DESIGN DASHBOARD\Design Dashboard Modern\obj\Debug\Design_Dashboard_Modern.splash.resources
+C:\Users\Pedro\Desktop\TCC_Ppnx\270820\PROYECTO DESIGN DASHBOARD\Design Dashboard Modern\obj\Debug\Design_Dashboard_Modern.tv.resources
+C:\Users\Pedro\Desktop\TCC_Ppnx\270820\PROYECTO DESIGN DASHBOARD\Design Dashboard Modern\obj\Debug\Design Dashboard Modern.csproj.GenerateResource.cache
+C:\Users\Pedro\Desktop\TCC_Ppnx\270820\PROYECTO DESIGN DASHBOARD\Design Dashboard Modern\obj\Debug\Design Dashboard Modern.csproj.CoreCompileInputs.cache
+C:\Users\Pedro\Desktop\TCC_Ppnx\270820\PROYECTO DESIGN DASHBOARD\Design Dashboard Modern\obj\Debug\Design Dashboard Modern.csproj.CopyComplete
+C:\Users\Pedro\Desktop\TCC_Ppnx\270820\PROYECTO DESIGN DASHBOARD\Design Dashboard Modern\obj\Debug\Design Dashboard Modern.exe
+C:\Users\Pedro\Desktop\TCC_Ppnx\270820\PROYECTO DESIGN DASHBOARD\Design Dashboard Modern\obj\Debug\Design Dashboard Modern.pdb
+C:\Users\Pedro\Desktop\TCC_Ppnx\03092020\PROYECTO DESIGN DASHBOARD\Design Dashboard Modern\bin\Debug\Design Dashboard Modern.exe.config
+C:\Users\Pedro\Desktop\TCC_Ppnx\03092020\PROYECTO DESIGN DASHBOARD\Design Dashboard Modern\bin\Debug\Design Dashboard Modern.exe
+C:\Users\Pedro\Desktop\TCC_Ppnx\03092020\PROYECTO DESIGN DASHBOARD\Design Dashboard Modern\bin\Debug\Design Dashboard Modern.pdb
+C:\Users\Pedro\Desktop\TCC_Ppnx\03092020\PROYECTO DESIGN DASHBOARD\Design Dashboard Modern\bin\Debug\MySql.Data.dll
+C:\Users\Pedro\Desktop\TCC_Ppnx\03092020\PROYECTO DESIGN DASHBOARD\Design Dashboard Modern\obj\Debug\Design Dashboard Modern.csprojAssemblyReference.cache
+C:\Users\Pedro\Desktop\TCC_Ppnx\03092020\PROYECTO DESIGN DASHBOARD\Design Dashboard Modern\obj\Debug\Design_Dashboard_Modern.Cadastro_de_Equipamentos.resources
+C:\Users\Pedro\Desktop\TCC_Ppnx\03092020\PROYECTO DESIGN DASHBOARD\Design Dashboard Modern\obj\Debug\Design_Dashboard_Modern.chuveiro.resources
+C:\Users\Pedro\Desktop\TCC_Ppnx\03092020\PROYECTO DESIGN DASHBOARD\Design Dashboard Modern\obj\Debug\Design_Dashboard_Modern.computador.resources
+C:\Users\Pedro\Desktop\TCC_Ppnx\03092020\PROYECTO DESIGN DASHBOARD\Design Dashboard Modern\obj\Debug\Design_Dashboard_Modern.Form1.resources
+C:\Users\Pedro\Desktop\TCC_Ppnx\03092020\PROYECTO DESIGN DASHBOARD\Design Dashboard Modern\obj\Debug\Design_Dashboard_Modern.maquina_lavar.resources
+C:\Users\Pedro\Desktop\TCC_Ppnx\03092020\PROYECTO DESIGN DASHBOARD\Design Dashboard Modern\obj\Debug\Design_Dashboard_Modern.geladeira.resources
+C:\Users\Pedro\Desktop\TCC_Ppnx\03092020\PROYECTO DESIGN DASHBOARD\Design Dashboard Modern\obj\Debug\Design_Dashboard_Modern.inicio.resources
+C:\Users\Pedro\Desktop\TCC_Ppnx\03092020\PROYECTO DESIGN DASHBOARD\Design Dashboard Modern\obj\Debug\Design_Dashboard_Modern.lampada.resources
+C:\Users\Pedro\Desktop\TCC_Ppnx\03092020\PROYECTO DESIGN DASHBOARD\Design Dashboard Modern\obj\Debug\Design_Dashboard_Modern.login.resources
+C:\Users\Pedro\Desktop\TCC_Ppnx\03092020\PROYECTO DESIGN DASHBOARD\Design Dashboard Modern\obj\Debug\Design_Dashboard_Modern.micro_ondas.resources
+C:\Users\Pedro\Desktop\TCC_Ppnx\03092020\PROYECTO DESIGN DASHBOARD\Design Dashboard Modern\obj\Debug\Design_Dashboard_Modern.painelControle.resources
+C:\Users\Pedro\Desktop\TCC_Ppnx\03092020\PROYECTO DESIGN DASHBOARD\Design Dashboard Modern\obj\Debug\Design_Dashboard_Modern.Properties.Resources.resources
+C:\Users\Pedro\Desktop\TCC_Ppnx\03092020\PROYECTO DESIGN DASHBOARD\Design Dashboard Modern\obj\Debug\Design_Dashboard_Modern.roteador.resources
+C:\Users\Pedro\Desktop\TCC_Ppnx\03092020\PROYECTO DESIGN DASHBOARD\Design Dashboard Modern\obj\Debug\Design_Dashboard_Modern.splash.resources
+C:\Users\Pedro\Desktop\TCC_Ppnx\03092020\PROYECTO DESIGN DASHBOARD\Design Dashboard Modern\obj\Debug\Design_Dashboard_Modern.tv.resources
+C:\Users\Pedro\Desktop\TCC_Ppnx\03092020\PROYECTO DESIGN DASHBOARD\Design Dashboard Modern\obj\Debug\Design Dashboard Modern.csproj.GenerateResource.cache
+C:\Users\Pedro\Desktop\TCC_Ppnx\03092020\PROYECTO DESIGN DASHBOARD\Design Dashboard Modern\obj\Debug\Design Dashboard Modern.csproj.CoreCompileInputs.cache
+C:\Users\Pedro\Desktop\TCC_Ppnx\03092020\PROYECTO DESIGN DASHBOARD\Design Dashboard Modern\obj\Debug\Design Dashboard Modern.csproj.CopyComplete
+C:\Users\Pedro\Desktop\TCC_Ppnx\03092020\PROYECTO DESIGN DASHBOARD\Design Dashboard Modern\obj\Debug\Design Dashboard Modern.exe
+C:\Users\Pedro\Desktop\TCC_Ppnx\03092020\PROYECTO DESIGN DASHBOARD\Design Dashboard Modern\obj\Debug\Design Dashboard Modern.pdb
+C:\Users\Laise\Desktop\TCC\20200908\PROYECTO DESIGN DASHBOARD\Design Dashboard Modern\bin\Debug\Design Dashboard Modern.exe.config
+C:\Users\Laise\Desktop\TCC\20200908\PROYECTO DESIGN DASHBOARD\Design Dashboard Modern\bin\Debug\Design Dashboard Modern.exe
+C:\Users\Laise\Desktop\TCC\20200908\PROYECTO DESIGN DASHBOARD\Design Dashboard Modern\bin\Debug\Design Dashboard Modern.pdb
+C:\Users\Laise\Desktop\TCC\20200908\PROYECTO DESIGN DASHBOARD\Design Dashboard Modern\obj\Debug\Design Dashboard Modern.csprojAssemblyReference.cache
+C:\Users\Laise\Desktop\TCC\20200908\PROYECTO DESIGN DASHBOARD\Design Dashboard Modern\obj\Debug\Design_Dashboard_Modern.Cadastro_de_Equipamentos.resources
+C:\Users\Laise\Desktop\TCC\20200908\PROYECTO DESIGN DASHBOARD\Design Dashboard Modern\obj\Debug\Design_Dashboard_Modern.chuveiro.resources
+C:\Users\Laise\Desktop\TCC\20200908\PROYECTO DESIGN DASHBOARD\Design Dashboard Modern\obj\Debug\Design_Dashboard_Modern.computador.resources
+C:\Users\Laise\Desktop\TCC\20200908\PROYECTO DESIGN DASHBOARD\Design Dashboard Modern\obj\Debug\Design_Dashboard_Modern.Form1.resources
+C:\Users\Laise\Desktop\TCC\20200908\PROYECTO DESIGN DASHBOARD\Design Dashboard Modern\obj\Debug\Design_Dashboard_Modern.maquina_lavar.resources
+C:\Users\Laise\Desktop\TCC\20200908\PROYECTO DESIGN DASHBOARD\Design Dashboard Modern\obj\Debug\Design_Dashboard_Modern.geladeira.resources
+C:\Users\Laise\Desktop\TCC\20200908\PROYECTO DESIGN DASHBOARD\Design Dashboard Modern\obj\Debug\Design_Dashboard_Modern.inicio.resources
+C:\Users\Laise\Desktop\TCC\20200908\PROYECTO DESIGN DASHBOARD\Design Dashboard Modern\obj\Debug\Design_Dashboard_Modern.lampada.resources
+C:\Users\Laise\Desktop\TCC\20200908\PROYECTO DESIGN DASHBOARD\Design Dashboard Modern\obj\Debug\Design_Dashboard_Modern.login.resources
+C:\Users\Laise\Desktop\TCC\20200908\PROYECTO DESIGN DASHBOARD\Design Dashboard Modern\obj\Debug\Design_Dashboard_Modern.micro_ondas.resources
+C:\Users\Laise\Desktop\TCC\20200908\PROYECTO DESIGN DASHBOARD\Design Dashboard Modern\obj\Debug\Design_Dashboard_Modern.painelControle.resources
+C:\Users\Laise\Desktop\TCC\20200908\PROYECTO DESIGN DASHBOARD\Design Dashboard Modern\obj\Debug\Design_Dashboard_Modern.Properties.Resources.resources
+C:\Users\Laise\Desktop\TCC\20200908\PROYECTO DESIGN DASHBOARD\Design Dashboard Modern\obj\Debug\Design_Dashboard_Modern.roteador.resources
+C:\Users\Laise\Desktop\TCC\20200908\PROYECTO DESIGN DASHBOARD\Design Dashboard Modern\obj\Debug\Design_Dashboard_Modern.splash.resources
+C:\Users\Laise\Desktop\TCC\20200908\PROYECTO DESIGN DASHBOARD\Design Dashboard Modern\obj\Debug\Design_Dashboard_Modern.tv.resources
+C:\Users\Laise\Desktop\TCC\20200908\PROYECTO DESIGN DASHBOARD\Design Dashboard Modern\obj\Debug\Design Dashboard Modern.csproj.GenerateResource.cache
+C:\Users\Laise\Desktop\TCC\20200908\PROYECTO DESIGN DASHBOARD\Design Dashboard Modern\obj\Debug\Design Dashboard Modern.csproj.CoreCompileInputs.cache
+C:\Users\Laise\Desktop\TCC\20200908\PROYECTO DESIGN DASHBOARD\Design Dashboard Modern\obj\Debug\Design Dashboard Modern.csproj.CopyComplete
+C:\Users\Laise\Desktop\TCC\20200908\PROYECTO DESIGN DASHBOARD\Design Dashboard Modern\obj\Debug\Design Dashboard Modern.exe
+C:\Users\Laise\Desktop\TCC\20200908\PROYECTO DESIGN DASHBOARD\Design Dashboard Modern\obj\Debug\Design Dashboard Modern.pdb
+C:\Users\Laise\Desktop\tudo\TCC\202009082209\PROYECTO DESIGN DASHBOARD\Design Dashboard Modern\obj\Debug\Design Dashboard Modern.csprojAssemblyReference.cache
+C:\Users\Laise\Desktop\tudo\TCC\202009082209\PROYECTO DESIGN DASHBOARD\Design Dashboard Modern\obj\Debug\Design_Dashboard_Modern.Cadastro_de_Equipamentos.resources
+C:\Users\Laise\Desktop\tudo\TCC\202009082209\PROYECTO DESIGN DASHBOARD\Design Dashboard Modern\obj\Debug\Design_Dashboard_Modern.chuveiro.resources
+C:\Users\Laise\Desktop\tudo\TCC\202009082209\PROYECTO DESIGN DASHBOARD\Design Dashboard Modern\obj\Debug\Design_Dashboard_Modern.computador.resources
+C:\Users\Laise\Desktop\tudo\TCC\202009082209\PROYECTO DESIGN DASHBOARD\Design Dashboard Modern\obj\Debug\Design_Dashboard_Modern.Form1.resources
+C:\Users\Laise\Desktop\tudo\TCC\202009082209\PROYECTO DESIGN DASHBOARD\Design Dashboard Modern\obj\Debug\Design_Dashboard_Modern.maquina_lavar.resources
+C:\Users\Laise\Desktop\tudo\TCC\202009082209\PROYECTO DESIGN DASHBOARD\Design Dashboard Modern\obj\Debug\Design_Dashboard_Modern.geladeira.resources
+C:\Users\Laise\Desktop\tudo\TCC\202009082209\PROYECTO DESIGN DASHBOARD\Design Dashboard Modern\obj\Debug\Design_Dashboard_Modern.inicio.resources
+C:\Users\Laise\Desktop\tudo\TCC\202009082209\PROYECTO DESIGN DASHBOARD\Design Dashboard Modern\obj\Debug\Design_Dashboard_Modern.lampada.resources
+C:\Users\Laise\Desktop\tudo\TCC\202009082209\PROYECTO DESIGN DASHBOARD\Design Dashboard Modern\obj\Debug\Design_Dashboard_Modern.login.resources
+C:\Users\Laise\Desktop\tudo\TCC\202009082209\PROYECTO DESIGN DASHBOARD\Design Dashboard Modern\obj\Debug\Design_Dashboard_Modern.micro_ondas.resources
+C:\Users\Laise\Desktop\tudo\TCC\202009082209\PROYECTO DESIGN DASHBOARD\Design Dashboard Modern\obj\Debug\Design_Dashboard_Modern.painelControle.resources
+C:\Users\Laise\Desktop\tudo\TCC\202009082209\PROYECTO DESIGN DASHBOARD\Design Dashboard Modern\obj\Debug\Design_Dashboard_Modern.Properties.Resources.resources
+C:\Users\Laise\Desktop\tudo\TCC\202009082209\PROYECTO DESIGN DASHBOARD\Design Dashboard Modern\obj\Debug\Design_Dashboard_Modern.roteador.resources
+C:\Users\Laise\Desktop\tudo\TCC\202009082209\PROYECTO DESIGN DASHBOARD\Design Dashboard Modern\obj\Debug\Design_Dashboard_Modern.splash.resources
+C:\Users\Laise\Desktop\tudo\TCC\202009082209\PROYECTO DESIGN DASHBOARD\Design Dashboard Modern\obj\Debug\Design_Dashboard_Modern.tv.resources
+C:\Users\Laise\Desktop\tudo\TCC\202009082209\PROYECTO DESIGN DASHBOARD\Design Dashboard Modern\obj\Debug\Design Dashboard Modern.csproj.GenerateResource.cache
+C:\Users\Laise\Desktop\tudo\TCC\202009082209\PROYECTO DESIGN DASHBOARD\Design Dashboard Modern\obj\Debug\Design Dashboard Modern.csproj.CoreCompileInputs.cache
+C:\Users\Laise\Desktop\tudo\TCC\202009082209\PROYECTO DESIGN DASHBOARD\Design Dashboard Modern\obj\Debug\Design Dashboard Modern.exe
+C:\Users\Laise\Desktop\tudo\TCC\202009082209\PROYECTO DESIGN DASHBOARD\Design Dashboard Modern\obj\Debug\Design Dashboard Modern.pdb
+C:\Users\Laise\Desktop\tudo\TCC\202009082209\PROYECTO DESIGN DASHBOARD\Design Dashboard Modern\bin\Debug\Design Dashboard Modern.exe.config
+C:\Users\Laise\Desktop\tudo\TCC\202009082209\PROYECTO DESIGN DASHBOARD\Design Dashboard Modern\bin\Debug\Design Dashboard Modern.exe
+C:\Users\Laise\Desktop\tudo\TCC\202009082209\PROYECTO DESIGN DASHBOARD\Design Dashboard Modern\bin\Debug\Design Dashboard Modern.pdb
+C:\Users\Laise\Desktop\tudo\TCC\202009082209\PROYECTO DESIGN DASHBOARD\Design Dashboard Modern\obj\Debug\Design Dashboard Modern.csproj.CopyComplete
+C:\Users\Laise\Desktop\tudo\TCC\20201001\PROYECTO DESIGN DASHBOARD\Design Dashboard Modern\bin\Debug\Design Dashboard Modern.exe.config
+C:\Users\Laise\Desktop\tudo\TCC\20201001\PROYECTO DESIGN DASHBOARD\Design Dashboard Modern\bin\Debug\Design Dashboard Modern.exe
+C:\Users\Laise\Desktop\tudo\TCC\20201001\PROYECTO DESIGN DASHBOARD\Design Dashboard Modern\bin\Debug\Design Dashboard Modern.pdb
+C:\Users\Laise\Desktop\tudo\TCC\20201001\PROYECTO DESIGN DASHBOARD\Design Dashboard Modern\obj\Debug\Design Dashboard Modern.csprojAssemblyReference.cache
+C:\Users\Laise\Desktop\tudo\TCC\20201001\PROYECTO DESIGN DASHBOARD\Design Dashboard Modern\obj\Debug\Design_Dashboard_Modern.Cadastro_de_Equipamentos.resources
+C:\Users\Laise\Desktop\tudo\TCC\20201001\PROYECTO DESIGN DASHBOARD\Design Dashboard Modern\obj\Debug\Design_Dashboard_Modern.chuveiro.resources
+C:\Users\Laise\Desktop\tudo\TCC\20201001\PROYECTO DESIGN DASHBOARD\Design Dashboard Modern\obj\Debug\Design_Dashboard_Modern.computador.resources
+C:\Users\Laise\Desktop\tudo\TCC\20201001\PROYECTO DESIGN DASHBOARD\Design Dashboard Modern\obj\Debug\Design_Dashboard_Modern.Form1.resources
+C:\Users\Laise\Desktop\tudo\TCC\20201001\PROYECTO DESIGN DASHBOARD\Design Dashboard Modern\obj\Debug\Design_Dashboard_Modern.maquina_lavar.resources
+C:\Users\Laise\Desktop\tudo\TCC\20201001\PROYECTO DESIGN DASHBOARD\Design Dashboard Modern\obj\Debug\Design_Dashboard_Modern.geladeira.resources
+C:\Users\Laise\Desktop\tudo\TCC\20201001\PROYECTO DESIGN DASHBOARD\Design Dashboard Modern\obj\Debug\Design_Dashboard_Modern.inicio.resources
+C:\Users\Laise\Desktop\tudo\TCC\20201001\PROYECTO DESIGN DASHBOARD\Design Dashboard Modern\obj\Debug\Design_Dashboard_Modern.lampada.resources
+C:\Users\Laise\Desktop\tudo\TCC\20201001\PROYECTO DESIGN DASHBOARD\Design Dashboard Modern\obj\Debug\Design_Dashboard_Modern.login.resources
+C:\Users\Laise\Desktop\tudo\TCC\20201001\PROYECTO DESIGN DASHBOARD\Design Dashboard Modern\obj\Debug\Design_Dashboard_Modern.micro_ondas.resources
+C:\Users\Laise\Desktop\tudo\TCC\20201001\PROYECTO DESIGN DASHBOARD\Design Dashboard Modern\obj\Debug\Design_Dashboard_Modern.painelControle.resources
+C:\Users\Laise\Desktop\tudo\TCC\20201001\PROYECTO DESIGN DASHBOARD\Design Dashboard Modern\obj\Debug\Design_Dashboard_Modern.Properties.Resources.resources
+C:\Users\Laise\Desktop\tudo\TCC\20201001\PROYECTO DESIGN DASHBOARD\Design Dashboard Modern\obj\Debug\Design_Dashboard_Modern.roteador.resources
+C:\Users\Laise\Desktop\tudo\TCC\20201001\PROYECTO DESIGN DASHBOARD\Design Dashboard Modern\obj\Debug\Design_Dashboard_Modern.splash.resources
+C:\Users\Laise\Desktop\tudo\TCC\20201001\PROYECTO DESIGN DASHBOARD\Design Dashboard Modern\obj\Debug\Design_Dashboard_Modern.tv.resources
+C:\Users\Laise\Desktop\tudo\TCC\20201001\PROYECTO DESIGN DASHBOARD\Design Dashboard Modern\obj\Debug\Design Dashboard Modern.csproj.GenerateResource.cache
+C:\Users\Laise\Desktop\tudo\TCC\20201001\PROYECTO DESIGN DASHBOARD\Design Dashboard Modern\obj\Debug\Design Dashboard Modern.csproj.CoreCompileInputs.cache
+C:\Users\Laise\Desktop\tudo\TCC\20201001\PROYECTO DESIGN DASHBOARD\Design Dashboard Modern\obj\Debug\Design Dashboard Modern.csproj.CopyComplete
+C:\Users\Laise\Desktop\tudo\TCC\20201001\PROYECTO DESIGN DASHBOARD\Design Dashboard Modern\obj\Debug\Design Dashboard Modern.exe
+C:\Users\Laise\Desktop\tudo\TCC\20201001\PROYECTO DESIGN DASHBOARD\Design Dashboard Modern\obj\Debug\Design Dashboard Modern.pdb
+C:\Users\Laise\Desktop\tudo\TCC\20200810\PROYECTO DESIGN DASHBOARD\Design Dashboard Modern\bin\Debug\Design Dashboard Modern.exe.config
+C:\Users\Laise\Desktop\tudo\TCC\20200810\PROYECTO DESIGN DASHBOARD\Design Dashboard Modern\bin\Debug\Design Dashboard Modern.exe
+C:\Users\Laise\Desktop\tudo\TCC\20200810\PROYECTO DESIGN DASHBOARD\Design Dashboard Modern\bin\Debug\Design Dashboard Modern.pdb
+C:\Users\Laise\Desktop\tudo\TCC\20200810\PROYECTO DESIGN DASHBOARD\Design Dashboard Modern\obj\Debug\Design Dashboard Modern.csprojAssemblyReference.cache
+C:\Users\Laise\Desktop\tudo\TCC\20200810\PROYECTO DESIGN DASHBOARD\Design Dashboard Modern\obj\Debug\Design_Dashboard_Modern.Cadastro_de_Equipamentos.resources
+C:\Users\Laise\Desktop\tudo\TCC\20200810\PROYECTO DESIGN DASHBOARD\Design Dashboard Modern\obj\Debug\Design_Dashboard_Modern.chuveiro.resources
+C:\Users\Laise\Desktop\tudo\TCC\20200810\PROYECTO DESIGN DASHBOARD\Design Dashboard Modern\obj\Debug\Design_Dashboard_Modern.computador.resources
+C:\Users\Laise\Desktop\tudo\TCC\20200810\PROYECTO DESIGN DASHBOARD\Design Dashboard Modern\obj\Debug\Design_Dashboard_Modern.Form1.resources
+C:\Users\Laise\Desktop\tudo\TCC\20200810\PROYECTO DESIGN DASHBOARD\Design Dashboard Modern\obj\Debug\Design_Dashboard_Modern.maquina_lavar.resources
+C:\Users\Laise\Desktop\tudo\TCC\20200810\PROYECTO DESIGN DASHBOARD\Design Dashboard Modern\obj\Debug\Design_Dashboard_Modern.geladeira.resources
+C:\Users\Laise\Desktop\tudo\TCC\20200810\PROYECTO DESIGN DASHBOARD\Design Dashboard Modern\obj\Debug\Design_Dashboard_Modern.inicio.resources
+C:\Users\Laise\Desktop\tudo\TCC\20200810\PROYECTO DESIGN DASHBOARD\Design Dashboard Modern\obj\Debug\Design_Dashboard_Modern.lampada.resources
+C:\Users\Laise\Desktop\tudo\TCC\20200810\PROYECTO DESIGN DASHBOARD\Design Dashboard Modern\obj\Debug\Design_Dashboard_Modern.login.resources
+C:\Users\Laise\Desktop\tudo\TCC\20200810\PROYECTO DESIGN DASHBOARD\Design Dashboard Modern\obj\Debug\Design_Dashboard_Modern.micro_ondas.resources
+C:\Users\Laise\Desktop\tudo\TCC\20200810\PROYECTO DESIGN DASHBOARD\Design Dashboard Modern\obj\Debug\Design_Dashboard_Modern.painelControle.resources
+C:\Users\Laise\Desktop\tudo\TCC\20200810\PROYECTO DESIGN DASHBOARD\Design Dashboard Modern\obj\Debug\Design_Dashboard_Modern.Properties.Resources.resources
+C:\Users\Laise\Desktop\tudo\TCC\20200810\PROYECTO DESIGN DASHBOARD\Design Dashboard Modern\obj\Debug\Design_Dashboard_Modern.roteador.resources
+C:\Users\Laise\Desktop\tudo\TCC\20200810\PROYECTO DESIGN DASHBOARD\Design Dashboard Modern\obj\Debug\Design_Dashboard_Modern.splash.resources
+C:\Users\Laise\Desktop\tudo\TCC\20200810\PROYECTO DESIGN DASHBOARD\Design Dashboard Modern\obj\Debug\Design_Dashboard_Modern.tv.resources
+C:\Users\Laise\Desktop\tudo\TCC\20200810\PROYECTO DESIGN DASHBOARD\Design Dashboard Modern\obj\Debug\Design Dashboard Modern.csproj.GenerateResource.cache
+C:\Users\Laise\Desktop\tudo\TCC\20200810\PROYECTO DESIGN DASHBOARD\Design Dashboard Modern\obj\Debug\Design Dashboard Modern.csproj.CoreCompileInputs.cache
+C:\Users\Laise\Desktop\tudo\TCC\20200810\PROYECTO DESIGN DASHBOARD\Design Dashboard Modern\obj\Debug\Design Dashboard Modern.csproj.CopyComplete
+C:\Users\Laise\Desktop\tudo\TCC\20200810\PROYECTO DESIGN DASHBOARD\Design Dashboard Modern\obj\Debug\Design Dashboard Modern.exe
+C:\Users\Laise\Desktop\tudo\TCC\20200810\PROYECTO DESIGN DASHBOARD\Design Dashboard Modern\obj\Debug\Design Dashboard Modern.pdb
+C:\Users\Laise\Desktop\tudo\TCC\20202010\PROYECTO DESIGN DASHBOARD\Design Dashboard Modern\obj\Debug\Design Dashboard Modern.csprojAssemblyReference.cache
+C:\Users\Laise\Desktop\tudo\TCC\20202010\PROYECTO DESIGN DASHBOARD\Design Dashboard Modern\obj\Debug\Design_Dashboard_Modern.Cadastro_de_Equipamentos.resources
+C:\Users\Laise\Desktop\tudo\TCC\20202010\PROYECTO DESIGN DASHBOARD\Design Dashboard Modern\obj\Debug\Design_Dashboard_Modern.chuveiro.resources
+C:\Users\Laise\Desktop\tudo\TCC\20202010\PROYECTO DESIGN DASHBOARD\Design Dashboard Modern\obj\Debug\Design_Dashboard_Modern.computador.resources
+C:\Users\Laise\Desktop\tudo\TCC\20202010\PROYECTO DESIGN DASHBOARD\Design Dashboard Modern\obj\Debug\Design_Dashboard_Modern.Form1.resources
+C:\Users\Laise\Desktop\tudo\TCC\20202010\PROYECTO DESIGN DASHBOARD\Design Dashboard Modern\obj\Debug\Design_Dashboard_Modern.maquina_lavar.resources
+C:\Users\Laise\Desktop\tudo\TCC\20202010\PROYECTO DESIGN DASHBOARD\Design Dashboard Modern\obj\Debug\Design_Dashboard_Modern.geladeira.resources
+C:\Users\Laise\Desktop\tudo\TCC\20202010\PROYECTO DESIGN DASHBOARD\Design Dashboard Modern\obj\Debug\Design_Dashboard_Modern.inicio.resources
+C:\Users\Laise\Desktop\tudo\TCC\20202010\PROYECTO DESIGN DASHBOARD\Design Dashboard Modern\obj\Debug\Design_Dashboard_Modern.lampada.resources
+C:\Users\Laise\Desktop\tudo\TCC\20202010\PROYECTO DESIGN DASHBOARD\Design Dashboard Modern\obj\Debug\Design_Dashboard_Modern.login.resources
+C:\Users\Laise\Desktop\tudo\TCC\20202010\PROYECTO DESIGN DASHBOARD\Design Dashboard Modern\obj\Debug\Design_Dashboard_Modern.micro_ondas.resources
+C:\Users\Laise\Desktop\tudo\TCC\20202010\PROYECTO DESIGN DASHBOARD\Design Dashboard Modern\obj\Debug\Design_Dashboard_Modern.painelControle.resources
+C:\Users\Laise\Desktop\tudo\TCC\20202010\PROYECTO DESIGN DASHBOARD\Design Dashboard Modern\obj\Debug\Design_Dashboard_Modern.Properties.Resources.resources
+C:\Users\Laise\Desktop\tudo\TCC\20202010\PROYECTO DESIGN DASHBOARD\Design Dashboard Modern\obj\Debug\Design_Dashboard_Modern.roteador.resources
+C:\Users\Laise\Desktop\tudo\TCC\20202010\PROYECTO DESIGN DASHBOARD\Design Dashboard Modern\obj\Debug\Design_Dashboard_Modern.splash.resources
+C:\Users\Laise\Desktop\tudo\TCC\20202010\PROYECTO DESIGN DASHBOARD\Design Dashboard Modern\obj\Debug\Design_Dashboard_Modern.tv.resources
+C:\Users\Laise\Desktop\tudo\TCC\20202010\PROYECTO DESIGN DASHBOARD\Design Dashboard Modern\obj\Debug\Design Dashboard Modern.csproj.GenerateResource.cache
+C:\Users\Laise\Desktop\tudo\TCC\20202010\PROYECTO DESIGN DASHBOARD\Design Dashboard Modern\obj\Debug\Design Dashboard Modern.csproj.CoreCompileInputs.cache
+C:\Users\Laise\Desktop\tudo\TCC\20202010\PROYECTO DESIGN DASHBOARD\Design Dashboard Modern\obj\Debug\Design Dashboard Modern.exe
+C:\Users\Laise\Desktop\tudo\TCC\20202010\PROYECTO DESIGN DASHBOARD\Design Dashboard Modern\obj\Debug\Design Dashboard Modern.pdb
+C:\Users\Laise\Desktop\tudo\TCC\20202010\PROYECTO DESIGN DASHBOARD\Design Dashboard Modern\bin\Debug\Design Dashboard Modern.exe.config
+C:\Users\Laise\Desktop\tudo\TCC\20202010\PROYECTO DESIGN DASHBOARD\Design Dashboard Modern\bin\Debug\Design Dashboard Modern.exe
+C:\Users\Laise\Desktop\tudo\TCC\20202010\PROYECTO DESIGN DASHBOARD\Design Dashboard Modern\bin\Debug\Design Dashboard Modern.pdb
+C:\Users\Laise\Desktop\tudo\TCC\20202010\PROYECTO DESIGN DASHBOARD\Design Dashboard Modern\obj\Debug\Design Dashboard Modern.csproj.CopyComplete
+C:\Users\Laise\Desktop\Não perder\tudo\TCC\20202010\PROYECTO DESIGN DASHBOARD\Design Dashboard Modern\bin\Debug\Design Dashboard Modern.exe.config
+C:\Users\Laise\Desktop\Não perder\tudo\TCC\20202010\PROYECTO DESIGN DASHBOARD\Design Dashboard Modern\bin\Debug\Design Dashboard Modern.exe
+C:\Users\Laise\Desktop\Não perder\tudo\TCC\20202010\PROYECTO DESIGN DASHBOARD\Design Dashboard Modern\bin\Debug\Design Dashboard Modern.pdb
+C:\Users\Laise\Desktop\Não perder\tudo\TCC\20202010\PROYECTO DESIGN DASHBOARD\Design Dashboard Modern\obj\Debug\Design Dashboard Modern.csprojAssemblyReference.cache
+C:\Users\Laise\Desktop\Não perder\tudo\TCC\20202010\PROYECTO DESIGN DASHBOARD\Design Dashboard Modern\obj\Debug\Design_Dashboard_Modern.Cadastro_de_Equipamentos.resources
+C:\Users\Laise\Desktop\Não perder\tudo\TCC\20202010\PROYECTO DESIGN DASHBOARD\Design Dashboard Modern\obj\Debug\Design_Dashboard_Modern.chuveiro.resources
+C:\Users\Laise\Desktop\Não perder\tudo\TCC\20202010\PROYECTO DESIGN DASHBOARD\Design Dashboard Modern\obj\Debug\Design_Dashboard_Modern.computador.resources
+C:\Users\Laise\Desktop\Não perder\tudo\TCC\20202010\PROYECTO DESIGN DASHBOARD\Design Dashboard Modern\obj\Debug\Design_Dashboard_Modern.Form1.resources
+C:\Users\Laise\Desktop\Não perder\tudo\TCC\20202010\PROYECTO DESIGN DASHBOARD\Design Dashboard Modern\obj\Debug\Design_Dashboard_Modern.maquina_lavar.resources
+C:\Users\Laise\Desktop\Não perder\tudo\TCC\20202010\PROYECTO DESIGN DASHBOARD\Design Dashboard Modern\obj\Debug\Design_Dashboard_Modern.geladeira.resources
+C:\Users\Laise\Desktop\Não perder\tudo\TCC\20202010\PROYECTO DESIGN DASHBOARD\Design Dashboard Modern\obj\Debug\Design_Dashboard_Modern.lampada.resources
+C:\Users\Laise\Desktop\Não perder\tudo\TCC\20202010\PROYECTO DESIGN DASHBOARD\Design Dashboard Modern\obj\Debug\Design_Dashboard_Modern.login.resources
+C:\Users\Laise\Desktop\Não perder\tudo\TCC\20202010\PROYECTO DESIGN DASHBOARD\Design Dashboard Modern\obj\Debug\Design_Dashboard_Modern.micro_ondas.resources
+C:\Users\Laise\Desktop\Não perder\tudo\TCC\20202010\PROYECTO DESIGN DASHBOARD\Design Dashboard Modern\obj\Debug\Design_Dashboard_Modern.painelControle.resources
+C:\Users\Laise\Desktop\Não perder\tudo\TCC\20202010\PROYECTO DESIGN DASHBOARD\Design Dashboard Modern\obj\Debug\Design_Dashboard_Modern.Properties.Resources.resources
+C:\Users\Laise\Desktop\Não perder\tudo\TCC\20202010\PROYECTO DESIGN DASHBOARD\Design Dashboard Modern\obj\Debug\Design_Dashboard_Modern.roteador.resources
+C:\Users\Laise\Desktop\Não perder\tudo\TCC\20202010\PROYECTO DESIGN DASHBOARD\Design Dashboard Modern\obj\Debug\Design_Dashboard_Modern.splash.resources
+C:\Users\Laise\Desktop\Não perder\tudo\TCC\20202010\PROYECTO DESIGN DASHBOARD\Design Dashboard Modern\obj\Debug\Design_Dashboard_Modern.tv.resources
+C:\Users\Laise\Desktop\Não perder\tudo\TCC\20202010\PROYECTO DESIGN DASHBOARD\Design Dashboard Modern\obj\Debug\Design Dashboard Modern.csproj.GenerateResource.cache
+C:\Users\Laise\Desktop\Não perder\tudo\TCC\20202010\PROYECTO DESIGN DASHBOARD\Design Dashboard Modern\obj\Debug\Design Dashboard Modern.csproj.CoreCompileInputs.cache
+C:\Users\Laise\Desktop\Não perder\tudo\TCC\20202010\PROYECTO DESIGN DASHBOARD\Design Dashboard Modern\obj\Debug\Design Dashboard Modern.csproj.CopyComplete
+C:\Users\Laise\Desktop\Não perder\tudo\TCC\20202010\PROYECTO DESIGN DASHBOARD\Design Dashboard Modern\obj\Debug\Design Dashboard Modern.exe
+C:\Users\Laise\Desktop\Não perder\tudo\TCC\20202010\PROYECTO DESIGN DASHBOARD\Design Dashboard Modern\obj\Debug\Design Dashboard Modern.pdb
+C:\Users\Laise\Desktop\Não perder\tudo\TCC\20202010\PROYECTO DESIGN DASHBOARD\Design Dashboard Modern\obj\Debug\Design_Dashboard_Modern.Inicial.resources
+C:\Users\Laise\Desktop\Não perder\tudo\TCC\20202010\PROYECTO DESIGN DASHBOARD\Design Dashboard Modern\obj\Debug\Design_Dashboard_Modern.usuarioX.resources
+C:\Users\Laise\Desktop\Não perder\tudo\TCC\20201811\20201811\PROYECTO DESIGN DASHBOARD\Design Dashboard Modern\obj\Debug\Design Dashboard Modern.csprojAssemblyReference.cache
+C:\Users\Laise\Desktop\Não perder\tudo\TCC\20201811\20201811\PROYECTO DESIGN DASHBOARD\Design Dashboard Modern\obj\Debug\Design Dashboard Modern.exe
+C:\Users\Laise\Desktop\Não perder\tudo\TCC\20201811\20201811\PROYECTO DESIGN DASHBOARD\Design Dashboard Modern\obj\Debug\Design Dashboard Modern.pdb
+C:\Users\Laise\Desktop\Não perder\tudo\TCC\20201811\20201811\PROYECTO DESIGN DASHBOARD\Design Dashboard Modern\bin\Debug\Design Dashboard Modern.exe.config
+C:\Users\Laise\Desktop\Não perder\tudo\TCC\20201811\20201811\PROYECTO DESIGN DASHBOARD\Design Dashboard Modern\bin\Debug\Design Dashboard Modern.exe
+C:\Users\Laise\Desktop\Não perder\tudo\TCC\20201811\20201811\PROYECTO DESIGN DASHBOARD\Design Dashboard Modern\bin\Debug\Design Dashboard Modern.pdb
+C:\Users\Laise\Desktop\Não perder\tudo\TCC\20201811\20201811\PROYECTO DESIGN DASHBOARD\Design Dashboard Modern\obj\Debug\Design_Dashboard_Modern.Cadastro_de_Equipamentos.resources
+C:\Users\Laise\Desktop\Não perder\tudo\TCC\20201811\20201811\PROYECTO DESIGN DASHBOARD\Design Dashboard Modern\obj\Debug\Design_Dashboard_Modern.computador.resources
+C:\Users\Laise\Desktop\Não perder\tudo\TCC\20201811\20201811\PROYECTO DESIGN DASHBOARD\Design Dashboard Modern\obj\Debug\Design_Dashboard_Modern.Form1.resources
+C:\Users\Laise\Desktop\Não perder\tudo\TCC\20201811\20201811\PROYECTO DESIGN DASHBOARD\Design Dashboard Modern\obj\Debug\Design_Dashboard_Modern.Inicial.resources
+C:\Users\Laise\Desktop\Não perder\tudo\TCC\20201811\20201811\PROYECTO DESIGN DASHBOARD\Design Dashboard Modern\obj\Debug\Design_Dashboard_Modern.maquina_lavar.resources
+C:\Users\Laise\Desktop\Não perder\tudo\TCC\20201811\20201811\PROYECTO DESIGN DASHBOARD\Design Dashboard Modern\obj\Debug\Design_Dashboard_Modern.geladeira.resources
+C:\Users\Laise\Desktop\Não perder\tudo\TCC\20201811\20201811\PROYECTO DESIGN DASHBOARD\Design Dashboard Modern\obj\Debug\Design_Dashboard_Modern.lampada.resources
+C:\Users\Laise\Desktop\Não perder\tudo\TCC\20201811\20201811\PROYECTO DESIGN DASHBOARD\Design Dashboard Modern\obj\Debug\Design_Dashboard_Modern.login.resources
+C:\Users\Laise\Desktop\Não perder\tudo\TCC\20201811\20201811\PROYECTO DESIGN DASHBOARD\Design Dashboard Modern\obj\Debug\Design_Dashboard_Modern.micro_ondas.resources
+C:\Users\Laise\Desktop\Não perder\tudo\TCC\20201811\20201811\PROYECTO DESIGN DASHBOARD\Design Dashboard Modern\obj\Debug\Design_Dashboard_Modern.painelControle.resources
+C:\Users\Laise\Desktop\Não perder\tudo\TCC\20201811\20201811\PROYECTO DESIGN DASHBOARD\Design Dashboard Modern\obj\Debug\Design_Dashboard_Modern.Properties.Resources.resources
+C:\Users\Laise\Desktop\Não perder\tudo\TCC\20201811\20201811\PROYECTO DESIGN DASHBOARD\Design Dashboard Modern\obj\Debug\Design_Dashboard_Modern.roteador.resources
+C:\Users\Laise\Desktop\Não perder\tudo\TCC\20201811\20201811\PROYECTO DESIGN DASHBOARD\Design Dashboard Modern\obj\Debug\Design_Dashboard_Modern.splash.resources
+C:\Users\Laise\Desktop\Não perder\tudo\TCC\20201811\20201811\PROYECTO DESIGN DASHBOARD\Design Dashboard Modern\obj\Debug\Design_Dashboard_Modern.tv.resources
+C:\Users\Laise\Desktop\Não perder\tudo\TCC\20201811\20201811\PROYECTO DESIGN DASHBOARD\Design Dashboard Modern\obj\Debug\Design_Dashboard_Modern.usuarioX.resources
+C:\Users\Laise\Desktop\Não perder\tudo\TCC\20201811\20201811\PROYECTO DESIGN DASHBOARD\Design Dashboard Modern\obj\Debug\Design Dashboard Modern.csproj.GenerateResource.cache
+C:\Users\Laise\Desktop\Não perder\tudo\TCC\20201811\20201811\PROYECTO DESIGN DASHBOARD\Design Dashboard Modern\obj\Debug\Design Dashboard Modern.csproj.CoreCompileInputs.cache
+C:\Users\Laise\Desktop\Não perder\tudo\TCC\20201811\20201811\PROYECTO DESIGN DASHBOARD\Design Dashboard Modern\obj\Debug\Design Dashboard Modern.csproj.CopyComplete
+C:\Users\Laise\Desktop\Não perder\tudo\TCC\20201811\20201811\PROYECTO DESIGN DASHBOARD\Design Dashboard Modern\obj\Debug\Design_Dashboard_Modern.consumo.resources
+C:\Users\Pedro\Desktop\TCC_Ppnx\20201811\PROYECTO DESIGN DASHBOARD\Design Dashboard Modern\bin\Debug\Design Dashboard Modern.exe.config
+C:\Users\Pedro\Desktop\TCC_Ppnx\20201811\PROYECTO DESIGN DASHBOARD\Design Dashboard Modern\bin\Debug\Design Dashboard Modern.exe
+C:\Users\Pedro\Desktop\TCC_Ppnx\20201811\PROYECTO DESIGN DASHBOARD\Design Dashboard Modern\bin\Debug\Design Dashboard Modern.pdb
+C:\Users\Pedro\Desktop\TCC_Ppnx\20201811\PROYECTO DESIGN DASHBOARD\Design Dashboard Modern\bin\Debug\MySql.Data.dll
+C:\Users\Pedro\Desktop\TCC_Ppnx\20201811\PROYECTO DESIGN DASHBOARD\Design Dashboard Modern\obj\Debug\Design Dashboard Modern.csprojAssemblyReference.cache
+C:\Users\Pedro\Desktop\TCC_Ppnx\20201811\PROYECTO DESIGN DASHBOARD\Design Dashboard Modern\obj\Debug\Design_Dashboard_Modern.Cadastro_de_Equipamentos.resources
+C:\Users\Pedro\Desktop\TCC_Ppnx\20201811\PROYECTO DESIGN DASHBOARD\Design Dashboard Modern\obj\Debug\Design_Dashboard_Modern.computador.resources
+C:\Users\Pedro\Desktop\TCC_Ppnx\20201811\PROYECTO DESIGN DASHBOARD\Design Dashboard Modern\obj\Debug\Design_Dashboard_Modern.consumo.resources
+C:\Users\Pedro\Desktop\TCC_Ppnx\20201811\PROYECTO DESIGN DASHBOARD\Design Dashboard Modern\obj\Debug\Design_Dashboard_Modern.Form1.resources
+C:\Users\Pedro\Desktop\TCC_Ppnx\20201811\PROYECTO DESIGN DASHBOARD\Design Dashboard Modern\obj\Debug\Design_Dashboard_Modern.Inicial.resources
+C:\Users\Pedro\Desktop\TCC_Ppnx\20201811\PROYECTO DESIGN DASHBOARD\Design Dashboard Modern\obj\Debug\Design_Dashboard_Modern.maquina_lavar.resources
+C:\Users\Pedro\Desktop\TCC_Ppnx\20201811\PROYECTO DESIGN DASHBOARD\Design Dashboard Modern\obj\Debug\Design_Dashboard_Modern.geladeira.resources
+C:\Users\Pedro\Desktop\TCC_Ppnx\20201811\PROYECTO DESIGN DASHBOARD\Design Dashboard Modern\obj\Debug\Design_Dashboard_Modern.lampada.resources
+C:\Users\Pedro\Desktop\TCC_Ppnx\20201811\PROYECTO DESIGN DASHBOARD\Design Dashboard Modern\obj\Debug\Design_Dashboard_Modern.login.resources
+C:\Users\Pedro\Desktop\TCC_Ppnx\20201811\PROYECTO DESIGN DASHBOARD\Design Dashboard Modern\obj\Debug\Design_Dashboard_Modern.micro_ondas.resources
+C:\Users\Pedro\Desktop\TCC_Ppnx\20201811\PROYECTO DESIGN DASHBOARD\Design Dashboard Modern\obj\Debug\Design_Dashboard_Modern.painelControle.resources
+C:\Users\Pedro\Desktop\TCC_Ppnx\20201811\PROYECTO DESIGN DASHBOARD\Design Dashboard Modern\obj\Debug\Design_Dashboard_Modern.Properties.Resources.resources
+C:\Users\Pedro\Desktop\TCC_Ppnx\20201811\PROYECTO DESIGN DASHBOARD\Design Dashboard Modern\obj\Debug\Design_Dashboard_Modern.roteador.resources
+C:\Users\Pedro\Desktop\TCC_Ppnx\20201811\PROYECTO DESIGN DASHBOARD\Design Dashboard Modern\obj\Debug\Design_Dashboard_Modern.splash.resources
+C:\Users\Pedro\Desktop\TCC_Ppnx\20201811\PROYECTO DESIGN DASHBOARD\Design Dashboard Modern\obj\Debug\Design_Dashboard_Modern.tv.resources
+C:\Users\Pedro\Desktop\TCC_Ppnx\20201811\PROYECTO DESIGN DASHBOARD\Design Dashboard Modern\obj\Debug\Design_Dashboard_Modern.usuarioX.resources
+C:\Users\Pedro\Desktop\TCC_Ppnx\20201811\PROYECTO DESIGN DASHBOARD\Design Dashboard Modern\obj\Debug\Design Dashboard Modern.csproj.GenerateResource.cache
+C:\Users\Pedro\Desktop\TCC_Ppnx\20201811\PROYECTO DESIGN DASHBOARD\Design Dashboard Modern\obj\Debug\Design Dashboard Modern.csproj.CoreCompileInputs.cache
+C:\Users\Pedro\Desktop\TCC_Ppnx\20201811\PROYECTO DESIGN DASHBOARD\Design Dashboard Modern\obj\Debug\Design Dashboard Modern.csproj.CopyComplete
+C:\Users\Pedro\Desktop\TCC_Ppnx\20201811\PROYECTO DESIGN DASHBOARD\Design Dashboard Modern\obj\Debug\Design Dashboard Modern.exe
+C:\Users\Pedro\Desktop\TCC_Ppnx\20201811\PROYECTO DESIGN DASHBOARD\Design Dashboard Modern\obj\Debug\Design Dashboard Modern.pdb
+C:\Users\Pedro\Desktop\TCC_Ppnx\Projeto Final\C#\PROYECTO DESIGN DASHBOARD\Design Dashboard Modern\obj\Debug\Design Dashboard Modern.csprojAssemblyReference.cache
+C:\Users\Pedro\Desktop\TCC_Ppnx\Projeto Final\C#\PROYECTO DESIGN DASHBOARD\Design Dashboard Modern\obj\Debug\Design_Dashboard_Modern.Cadastro_de_Equipamentos.resources
+C:\Users\Pedro\Desktop\TCC_Ppnx\Projeto Final\C#\PROYECTO DESIGN DASHBOARD\Design Dashboard Modern\obj\Debug\Design_Dashboard_Modern.computador.resources
+C:\Users\Pedro\Desktop\TCC_Ppnx\Projeto Final\C#\PROYECTO DESIGN DASHBOARD\Design Dashboard Modern\obj\Debug\Design_Dashboard_Modern.consumo.resources
+C:\Users\Pedro\Desktop\TCC_Ppnx\Projeto Final\C#\PROYECTO DESIGN DASHBOARD\Design Dashboard Modern\obj\Debug\Design_Dashboard_Modern.Form1.resources
+C:\Users\Pedro\Desktop\TCC_Ppnx\Projeto Final\C#\PROYECTO DESIGN DASHBOARD\Design Dashboard Modern\obj\Debug\Design_Dashboard_Modern.Inicial.resources
+C:\Users\Pedro\Desktop\TCC_Ppnx\Projeto Final\C#\PROYECTO DESIGN DASHBOARD\Design Dashboard Modern\obj\Debug\Design_Dashboard_Modern.maquina_lavar.resources
+C:\Users\Pedro\Desktop\TCC_Ppnx\Projeto Final\C#\PROYECTO DESIGN DASHBOARD\Design Dashboard Modern\obj\Debug\Design_Dashboard_Modern.geladeira.resources
+C:\Users\Pedro\Desktop\TCC_Ppnx\Projeto Final\C#\PROYECTO DESIGN DASHBOARD\Design Dashboard Modern\obj\Debug\Design_Dashboard_Modern.lampada.resources
+C:\Users\Pedro\Desktop\TCC_Ppnx\Projeto Final\C#\PROYECTO DESIGN DASHBOARD\Design Dashboard Modern\obj\Debug\Design_Dashboard_Modern.login.resources
+C:\Users\Pedro\Desktop\TCC_Ppnx\Projeto Final\C#\PROYECTO DESIGN DASHBOARD\Design Dashboard Modern\obj\Debug\Design_Dashboard_Modern.micro_ondas.resources
+C:\Users\Pedro\Desktop\TCC_Ppnx\Projeto Final\C#\PROYECTO DESIGN DASHBOARD\Design Dashboard Modern\obj\Debug\Design_Dashboard_Modern.painelControle.resources
+C:\Users\Pedro\Desktop\TCC_Ppnx\Projeto Final\C#\PROYECTO DESIGN DASHBOARD\Design Dashboard Modern\obj\Debug\Design_Dashboard_Modern.Properties.Resources.resources
+C:\Users\Pedro\Desktop\TCC_Ppnx\Projeto Final\C#\PROYECTO DESIGN DASHBOARD\Design Dashboard Modern\obj\Debug\Design_Dashboard_Modern.roteador.resources
+C:\Users\Pedro\Desktop\TCC_Ppnx\Projeto Final\C#\PROYECTO DESIGN DASHBOARD\Design Dashboard Modern\obj\Debug\Design_Dashboard_Modern.splash.resources
+C:\Users\Pedro\Desktop\TCC_Ppnx\Projeto Final\C#\PROYECTO DESIGN DASHBOARD\Design Dashboard Modern\obj\Debug\Design_Dashboard_Modern.tv.resources
+C:\Users\Pedro\Desktop\TCC_Ppnx\Projeto Final\C#\PROYECTO DESIGN DASHBOARD\Design Dashboard Modern\obj\Debug\Design_Dashboard_Modern.usuarioX.resources
+C:\Users\Pedro\Desktop\TCC_Ppnx\Projeto Final\C#\PROYECTO DESIGN DASHBOARD\Design Dashboard Modern\obj\Debug\Design Dashboard Modern.csproj.GenerateResource.cache
+C:\Users\Pedro\Desktop\TCC_Ppnx\Projeto Final\C#\PROYECTO DESIGN DASHBOARD\Design Dashboard Modern\obj\Debug\Design Dashboard Modern.csproj.CoreCompileInputs.cache
+C:\Users\Pedro\Desktop\TCC_Ppnx\Projeto Final\C#\PROYECTO DESIGN DASHBOARD\Design Dashboard Modern\obj\Debug\Design Dashboard Modern.exe
+C:\Users\Pedro\Desktop\TCC_Ppnx\Projeto Final\C#\PROYECTO DESIGN DASHBOARD\Design Dashboard Modern\obj\Debug\Design Dashboard Modern.pdb
+C:\Users\Pedro\Desktop\TCC_Ppnx\Projeto Final\C#\PROYECTO DESIGN DASHBOARD\Design Dashboard Modern\bin\Debug\Design Dashboard Modern.exe.config
+C:\Users\Pedro\Desktop\TCC_Ppnx\Projeto Final\C#\PROYECTO DESIGN DASHBOARD\Design Dashboard Modern\bin\Debug\Design Dashboard Modern.exe
+C:\Users\Pedro\Desktop\TCC_Ppnx\Projeto Final\C#\PROYECTO DESIGN DASHBOARD\Design Dashboard Modern\bin\Debug\Design Dashboard Modern.pdb
+C:\Users\Pedro\Desktop\TCC_Ppnx\Projeto Final\C#\PROYECTO DESIGN DASHBOARD\Design Dashboard Modern\bin\Debug\MySql.Data.dll
+C:\Users\Pedro\Desktop\TCC_Ppnx\Projeto Final\C#\PROYECTO DESIGN DASHBOARD\Design Dashboard Modern\obj\Debug\Design Dashboard Modern.csproj.CopyComplete
+C:\Users\Pedro\Desktop\Projeto Final\C#\PROYECTO DESIGN DASHBOARD\Design Dashboard Modern\bin\Debug\Design Dashboard Modern.exe.config
+C:\Users\Pedro\Desktop\Projeto Final\C#\PROYECTO DESIGN DASHBOARD\Design Dashboard Modern\bin\Debug\Design Dashboard Modern.exe
+C:\Users\Pedro\Desktop\Projeto Final\C#\PROYECTO DESIGN DASHBOARD\Design Dashboard Modern\bin\Debug\Design Dashboard Modern.pdb
+C:\Users\Pedro\Desktop\Projeto Final\C#\PROYECTO DESIGN DASHBOARD\Design Dashboard Modern\bin\Debug\MySql.Data.dll
+C:\Users\Pedro\Desktop\Projeto Final\C#\PROYECTO DESIGN DASHBOARD\Design Dashboard Modern\obj\Debug\Design Dashboard Modern.csprojAssemblyReference.cache
+C:\Users\Pedro\Desktop\Projeto Final\C#\PROYECTO DESIGN DASHBOARD\Design Dashboard Modern\obj\Debug\Design_Dashboard_Modern.Cadastro_de_Equipamentos.resources
+C:\Users\Pedro\Desktop\Projeto Final\C#\PROYECTO DESIGN DASHBOARD\Design Dashboard Modern\obj\Debug\Design_Dashboard_Modern.computador.resources
+C:\Users\Pedro\Desktop\Projeto Final\C#\PROYECTO DESIGN DASHBOARD\Design Dashboard Modern\obj\Debug\Design_Dashboard_Modern.consumo.resources
+C:\Users\Pedro\Desktop\Projeto Final\C#\PROYECTO DESIGN DASHBOARD\Design Dashboard Modern\obj\Debug\Design_Dashboard_Modern.Form1.resources
+C:\Users\Pedro\Desktop\Projeto Final\C#\PROYECTO DESIGN DASHBOARD\Design Dashboard Modern\obj\Debug\Design_Dashboard_Modern.Inicial.resources
+C:\Users\Pedro\Desktop\Projeto Final\C#\PROYECTO DESIGN DASHBOARD\Design Dashboard Modern\obj\Debug\Design_Dashboard_Modern.maquina_lavar.resources
+C:\Users\Pedro\Desktop\Projeto Final\C#\PROYECTO DESIGN DASHBOARD\Design Dashboard Modern\obj\Debug\Design_Dashboard_Modern.geladeira.resources
+C:\Users\Pedro\Desktop\Projeto Final\C#\PROYECTO DESIGN DASHBOARD\Design Dashboard Modern\obj\Debug\Design_Dashboard_Modern.lampada.resources
+C:\Users\Pedro\Desktop\Projeto Final\C#\PROYECTO DESIGN DASHBOARD\Design Dashboard Modern\obj\Debug\Design_Dashboard_Modern.login.resources
+C:\Users\Pedro\Desktop\Projeto Final\C#\PROYECTO DESIGN DASHBOARD\Design Dashboard Modern\obj\Debug\Design_Dashboard_Modern.micro_ondas.resources
+C:\Users\Pedro\Desktop\Projeto Final\C#\PROYECTO DESIGN DASHBOARD\Design Dashboard Modern\obj\Debug\Design_Dashboard_Modern.painelControle.resources
+C:\Users\Pedro\Desktop\Projeto Final\C#\PROYECTO DESIGN DASHBOARD\Design Dashboard Modern\obj\Debug\Design_Dashboard_Modern.Properties.Resources.resources
+C:\Users\Pedro\Desktop\Projeto Final\C#\PROYECTO DESIGN DASHBOARD\Design Dashboard Modern\obj\Debug\Design_Dashboard_Modern.roteador.resources
+C:\Users\Pedro\Desktop\Projeto Final\C#\PROYECTO DESIGN DASHBOARD\Design Dashboard Modern\obj\Debug\Design_Dashboard_Modern.splash.resources
+C:\Users\Pedro\Desktop\Projeto Final\C#\PROYECTO DESIGN DASHBOARD\Design Dashboard Modern\obj\Debug\Design_Dashboard_Modern.tv.resources
+C:\Users\Pedro\Desktop\Projeto Final\C#\PROYECTO DESIGN DASHBOARD\Design Dashboard Modern\obj\Debug\Design_Dashboard_Modern.usuarioX.resources
+C:\Users\Pedro\Desktop\Projeto Final\C#\PROYECTO DESIGN DASHBOARD\Design Dashboard Modern\obj\Debug\Design Dashboard Modern.csproj.GenerateResource.cache
+C:\Users\Pedro\Desktop\Projeto Final\C#\PROYECTO DESIGN DASHBOARD\Design Dashboard Modern\obj\Debug\Design Dashboard Modern.csproj.CoreCompileInputs.cache
+C:\Users\Pedro\Desktop\Projeto Final\C#\PROYECTO DESIGN DASHBOARD\Design Dashboard Modern\obj\Debug\Design Dashboard Modern.csproj.CopyComplete
+C:\Users\Pedro\Desktop\Projeto Final\C#\PROYECTO DESIGN DASHBOARD\Design Dashboard Modern\obj\Debug\Design Dashboard Modern.exe
+C:\Users\Pedro\Desktop\Projeto Final\C#\PROYECTO DESIGN DASHBOARD\Design Dashboard Modern\obj\Debug\Design Dashboard Modern.pdb

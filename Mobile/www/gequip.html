@@ -1,0 +1,368 @@
+<html>
+<head>
+    <meta name="viewport" content="user-scalable=no, initial-scale=1, width=device-width">
+	<title>PPNX - Energy</title>
+    <link rel="stylesheet" type="text/css" href="css/fontawesome/css/all.min.css">
+	<link rel="stylesheet" type="text/css" href="css/bootstrap.min.css">
+	<link rel="stylesheet" type="text/css" href="css/style.css">
+	<link rel="stylesheet" type="text/css" href="css/owl.carousel.min.css">
+	<script src="js/jquery.min.js"></script>
+	<script src="js/owl.carousel.js"></script>
+	<!-- Inicio Sala -->
+	<script type="text/javascript">
+		window.onload = function(){
+			var url= "http://localhost/ppnx/consultaequip_so.php?id=1";
+			$.ajax({
+            	type: "POST",crossDomain: true, cache: false,
+                url: url,
+                data: url,
+                success: function(data){
+					$.getJSON(url, function(result) {
+						console.log(result);
+						$.each(result, function(i, field) {
+							var status = field.equipamento_status;
+							localStorage.setItem('status_sala',status)
+							if(status == "Ligado")
+							{
+								document.getElementById('status_sala').className = "text-success";
+							}
+							else {
+								document.getElementById('status_sala').className = "text-danger";
+							}		
+						});
+					});
+    			} 
+            });
+		}
+		window.addEventListener('load', function() {
+			var url= "http://localhost/ppnx/consultaequip_so.php?id=2";
+			$.ajax({
+            	type: "POST",crossDomain: true, cache: false,
+                url: url,
+                data: url,
+                success: function(data){
+					$.getJSON(url, function(result) {
+						console.log(result);
+						$.each(result, function(i, field) {
+							var status = field.equipamento_status;
+							localStorage.setItem('status_quartoa',status)
+							if(status == "Ligado")
+							{
+								document.getElementById('status_quartoa').className = "text-success";
+							}
+							else {
+								document.getElementById('status_quartoa').className = "text-danger";
+							}		
+						});
+					});
+    			} 
+            });
+		});
+	// Fim Quarto A
+	// Inicio Banheiro
+		window.addEventListener('load', function() {
+			var url= "http://localhost/ppnx/consultaequip_so.php?id=3";
+			$.ajax({
+            	type: "POST",crossDomain: true, cache: false,
+                url: url,
+                data: url,
+                success: function(data){
+					$.getJSON(url, function(result) {
+						console.log(result);
+						$.each(result, function(i, field) {
+							var status = field.equipamento_status;
+							localStorage.setItem('status_banheiro',status)
+							if(status == "Ligado")
+							{
+								document.getElementById('status_banheiro').className = "text-success";
+							}
+							else {
+								document.getElementById('status_banheiro').className = "text-danger";
+							}		
+						});
+					});
+    			} 
+            });
+		});
+	// Fim Banheiro
+	// Inicio Quarto B
+		window.addEventListener('load', function() {
+			var url= "http://localhost/ppnx/consultaequip_so.php?id=4";
+			$.ajax({
+            	type: "POST",crossDomain: true, cache: false,
+                url: url,
+                data: url,
+                success: function(data){
+					$.getJSON(url, function(result) {
+						console.log(result);
+						$.each(result, function(i, field) {
+							var status = field.equipamento_status;
+							localStorage.setItem('status_quartob',status)
+							if(status == "Ligado")
+							{
+								document.getElementById('status_quartob').className = "text-success";
+							}
+							else {
+								document.getElementById('status_quartob').className = "text-danger";
+							}		
+						});
+					});
+    			} 
+            });
+		});
+	// Fim Quarto B
+	// Inicio Cozinha
+	window.addEventListener('load', function() {
+			var url= "http://localhost/ppnx/consultaequip_so.php?id=5";
+			$.ajax({
+            	type: "POST",crossDomain: true, cache: false,
+                url: url,
+                data: url,
+                success: function(data){
+					$.getJSON(url, function(result) {
+						console.log(result);
+						$.each(result, function(i, field) {
+							var status = field.equipamento_status;
+							localStorage.setItem('status_cozinha',status)
+							if(status == "Ligado")
+							{
+								document.getElementById('status_cozinha').className = "text-success";
+							}
+							else {
+								document.getElementById('status_cozinha').className = "text-danger";
+							}		
+						});
+					});
+    			} 
+            });
+		});
+	// Fim Cozinha
+	</script>
+	<script>
+		function mudaSala(){
+			var statusSala = localStorage.getItem('status_sala');
+			var url= "http://localhost/ppnx/mudarequip.php?id=1&status="+statusSala;
+			$.ajax({
+				type: "POST",crossDomain: true, cache: false,
+				url: url,
+				data: url,
+				success: function(data){
+					$.getJSON(url, function(result) {
+						console.log(result);
+						$.each(result, function(i, field) {
+								window.location.reload();	
+						});
+					});
+				} 
+			});
+		}
+
+		function mudaQuartoA(){
+			var status = localStorage.getItem('status_quartoa');
+			var url= "http://localhost/ppnx/mudarequip.php?id=2&status="+status;
+			$.ajax({
+				type: "POST",crossDomain: true, cache: false,
+				url: url,
+				data: url,
+				success: function(data){
+					$.getJSON(url, function(result) {
+						console.log(result);
+						$.each(result, function(i, field) {
+								window.location.reload();	
+						});
+					});
+				} 
+			});
+		}
+
+		function mudaQuartoB(){
+			var status = localStorage.getItem('status_quartob');
+			var url= "http://localhost/ppnx/mudarequip.php?id=4&status="+status;
+			$.ajax({
+				type: "POST",crossDomain: true, cache: false,
+				url: url,
+				data: url,
+				success: function(data){
+					$.getJSON(url, function(result) {
+						console.log(result);
+						$.each(result, function(i, field) {
+								window.location.reload();	
+						});
+					});
+				} 
+			});
+		}
+
+		function mudaCozinha(){
+			var status = localStorage.getItem('status_cozinha');
+			var url= "http://localhost/ppnx/mudarequip.php?id=5&status="+status;
+			$.ajax({
+				type: "POST",crossDomain: true, cache: false,
+				url: url,
+				data: url,
+				success: function(data){
+					$.getJSON(url, function(result) {
+						console.log(result);
+						$.each(result, function(i, field) {
+								window.location.reload();	
+						});
+					});
+				} 
+			});
+		}
+
+		function mudaBanheiro(){
+			var status = localStorage.getItem('status_banheiro');
+			var url= "http://localhost/ppnx/mudarequip.php?id=3&status="+status;
+			$.ajax({
+				type: "POST",crossDomain: true, cache: false,
+				url: url,
+				data: url,
+				success: function(data){
+					$.getJSON(url, function(result) {
+						console.log(result);
+						$.each(result, function(i, field) {
+								window.location.reload();	
+						});
+					});
+				} 
+			});
+		}
+	</script>
+
+	<script>
+		function openNav()
+		{
+			document.getElementById("sidenav").style.width="300px";
+		}
+		function closeNav()
+		{
+			document.getElementById("sidenav").style.width="0px";
+		}
+		
+		
+
+		$(document).ready(function() {
+              $('.owl-carousel').owlCarousel({
+                items: 6,
+                loop: false,
+                margin: 10,
+                merge: true,
+                responsive: {
+                  678: {
+                    mergeFit: true
+                  },
+                  1000: {
+                    mergeFit: false
+                  }
+                }
+              });
+            })
+	</script>
+</head>
+<body>
+       <!-- Botões MenuShape Menu Superior  --> 
+	<div class="container">
+		<div class="app"><!--
+			<div class="menushape1"></div>-->
+			<div class="menushape2"></div>
+			<ul class="menubar">
+				<li><a class="active"  href="javascript:void(0)" onclick="openNav()"><i class="fas fa-bars"></i></a></li>
+				<li><a href="menu.html"><i class="fas fa-home branco"></i></a></li>
+				<li><a href=""><i class="fas fa-ellipsis-v"></i></a></li>
+			</ul>
+			  <!-- Menu Lateral--> 
+			<div class="sidenav" id="sidenav">
+				<div class="sidenavshape"></div>
+				<div class="profile">
+					<img src="img/user.png" alt="avatar">
+					<h3>Menu</h3>
+		 </div>
+		     <!-- Itens do Menu Lateral  --> 
+		<div class="clearfix"></div>
+			 <ul>
+				 <li><a href="javascript:void(0)" class="closebtn" onclick="closeNav()"><i class="fas fa-times"></i></a></li>
+				 <li ><a href="#"><b>Gerenciar Equipamentos</b></a></li>
+				<!-- <li ><a href="mapacasa.html"><b>Mapeamento Casa</b></a></li> -->
+					<li><a href="index.html" onclick="javascript:window.close()"><i class="fas fa-sign-out-alt"></i> Sair</a></li>
+			 </ul> 
+		</div>
+		<!--<div class="news">
+			<h2><span><font face="iceland" size="30" color="#fff"> Wasser <i class="fas fa-tint"></i> </font></span>
+		</div> -->
+		<!-- Carrossel de Imagens -->
+			<div class="logo">
+				<img src="img/logo.png" alt="Logo PPNX">
+			</div>
+		    <div class="news">
+				<h2><span class="branco">GERENCIAR EQUIPAMENTOS</span></h2>
+				<!-- Inicio Lâmpada Sala -->		          	
+		        <div class="row news-item">
+		        	<img src="img/simul/sala_on.png" alt="">
+		        	<div class="news-desc">
+		          			<h4>LÂMPADA - SALA</h4>
+		        	</div>
+		        	<div class="social">
+		        		<a href="" id="status_sala" class="text-success" onclick="mudaSala();"><i class="fas fa-power-off"></i></a>
+		        		<!--<br><br>
+		          		<a href="" class="text-danger"><i class="fas fa-power-off"></i></a>-->
+		          	</div>
+				</div>
+				<!-- Fim Lâmpada Sala -->
+				<!-- Inicio Lâmpada Quarto A -->		          	
+		        <div class="row news-item">
+		        	<img src="img/simul/quartoa_on.png" alt="">
+		        	<div class="news-desc">
+		          			<h4>LÂMPADA - QUARTO A</h4>
+		        	</div>
+		        	<div class="social">
+		        		<a href="" id="status_quartoa" class="text-success" onclick="mudaQuartoA();"><i class="fas fa-power-off"></i></a>
+		        		<!--<br><br>
+		          		<a href="" class="text-danger"><i class="fas fa-power-off"></i></a>-->
+		          	</div>
+				</div>
+				<!-- Fim Lâmpada Quarto A -->
+				<!-- Inicio Lâmpada Banheiro -->		          	
+		        <div class="row news-item">
+		        	<img src="img/simul/banheiro_on.png" alt="">
+		        	<div class="news-desc">
+		          			<h4>LÂMPADA - BANHEIRO</h4>
+		        	</div>
+		        	<div class="social">
+		        		<a href="" id="status_banheiro" class="text-success" onclick="mudaBanheiro();"><i class="fas fa-power-off"></i></a>
+		        		<!--<br><br>
+		          		<a href="" class="text-danger"><i class="fas fa-power-off"></i></a>-->
+		          	</div>
+				</div>
+				<!-- Fim Lâmpada Banheiro -->
+				<!-- Inicio Lâmpada Quarto B -->		          	
+		        <div class="row news-item">
+		        	<img src="img/simul/quartob_on.png" alt="">
+		        	<div class="news-desc">
+		          			<h4>LÂMPADA - QUARTO B</h4>
+		        	</div>
+		        	<div class="social">
+		        		<a href="" id="status_quartob" class="text-success" onclick="mudaQuartoB();"><i class="fas fa-power-off"></i></a>
+		        		<!--<br><br>
+		          		<a href="" class="text-danger"><i class="fas fa-power-off"></i></a>-->
+		          	</div>
+				</div>
+				<!-- Fim Lâmpada Quarto B -->
+				<!-- Inicio Lâmpada Cozinha -->		          	
+		        <div class="row news-item">
+		        	<img src="img/simul/cozinha_on.png" alt="">
+		        	<div class="news-desc">
+		          			<h4>LÂMPADA - COZINHA</h4>
+		        	</div>
+		        	<div class="social">
+		        		<a href="" id="status_cozinha" class="text-success" onclick="mudaCozinha();"><i class="fas fa-power-off"></i></a>
+		        		<!--<br><br>
+		          		<a href="" class="text-danger"><i class="fas fa-power-off"></i></a>-->
+		          	</div>
+				</div>
+				<!-- Fim Lâmpada Cozinha -->
+			</div>
+		</div>		
+	</div>	
+</body>
+</html>

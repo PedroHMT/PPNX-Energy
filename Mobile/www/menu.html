@@ -1,0 +1,215 @@
+<html>
+<head>
+    <meta name="viewport" content="user-scalable=no, initial-scale=1, width=device-width">
+	<title>PPNX - Energy</title>
+    <link rel="stylesheet" type="text/css" href="css/fontawesome/css/all.min.css">
+	<link rel="stylesheet" type="text/css" href="css/bootstrap.min.css">
+	<link rel="stylesheet" type="text/css" href="css/style.css">
+	<link rel="stylesheet" type="text/css" href="css/owl.carousel.min.css">
+	<script src="js/jquery.min.js"></script>
+	<script src="js/owl.carousel.js"></script>
+	<script type="text/javascript">
+		window.onload = function(){
+			var email = sessionStorage.getItem("email_login");
+			var url= "http://localhost/ppnx/consultauser.php?email="+email;
+			$.ajax({
+            	type: "POST",crossDomain: true, cache: false,
+                url: url,
+                data: url,
+                success: function(data){
+					$.getJSON(url, function(result) {
+						console.log(result);
+						$.each(result, function(i, field) {
+							var contagem = field.contagem_equip;
+							var nome = field.user_nome;
+							var iduser = field.user_id;
+							sessionStorage.setItem("iduser", iduser);
+							
+								if(contagem > 0)
+								{
+									document.getElementById('nomeUser').innerHTML = "Olá, "+nome;
+									document.getElementById('quant_lamp').innerHTML = contagem+" LÂMPADAS";
+									document.getElementById('img_lamp').src = "img/botoes/lampadas.png";
+								}
+								else if(contagem < 1)
+								{
+									document.getElementById('nomeUser').innerHTML = "Olá, "+nome;
+									document.getElementById('quant_lamp').innerHTML = contagem+" LÂMPADAS";
+									document.getElementById('img_lamp').src = "img/botoes/lampadas_off.png";
+								}
+							
+							console.log(contagem);
+							console.log(nome);
+								
+						});
+					});
+   				}
+            });
+		}
+		window.addEventListener('load', function() {
+			var url= "http://localhost/ppnx/consumo.php";
+			$.ajax({
+            	type: "POST",crossDomain: true, cache: false,
+                url: url,
+                data: url,
+                success: function(data){
+					$.getJSON(url, function(result) {
+						console.log(result);
+						$.each(result, function(i, field) {
+							var consumo = field.consumo;
+							console.log(consumo);
+							document.getElementById('consumoTotal').innerHTML = "Consumo Total: R$ "+consumo;	
+						});
+					});
+    			} 
+            });
+		});
+		
+
+		
+	</script>
+	<script>
+		function openNav()
+		{
+			document.getElementById("sidenav").style.width="300px";
+		}
+		function closeNav()
+		{
+			document.getElementById("sidenav").style.width="0px";
+		}
+		
+		$(document).ready(function() {
+              $('.owl-carousel').owlCarousel({
+                items: 6,
+                loop: false,
+                margin: 10,
+                merge: true,
+                responsive: {
+                  678: {
+                    mergeFit: true
+                  },
+                  1000: {
+                    mergeFit: false
+                  }
+                }
+              });
+            })
+	</script>
+</head>
+<body>
+       <!-- Botões MenuShape Menu Superior  --> 
+	<div class="container">
+		<div class="app"><!--
+			<div class="menushape1"></div>-->
+			<div class="menushape2"></div>
+			<ul class="menubar">
+				<li><a class="active"  href="javascript:void(0)" onclick="openNav()"><i class="fas fa-bars"></i></a></li>
+				<li><a href="menu.html"><i class="fas fa-home branco"></i></a></li>
+				<li><a href=""><i class="fas fa-ellipsis-v"></i></a></li>
+			</ul>
+			  <!-- Menu Lateral--> 
+			<div class="sidenav" id="sidenav">
+				<div class="sidenavshape"></div>
+				<div class="profile">
+					<img src="img/user.png" alt="avatar">
+					<h3>Menu</h3>
+		 </div>
+		     <!-- Itens do Menu Lateral  --> 
+		 <div class="clearfix"></div>
+				<ul>
+					<li><a href="javascript:void(0)" class="closebtn" onclick="closeNav()"><i class="fas fa-times"></i></a></li>
+					<li ><a href="gequip.html"><b>Gerenciar Equipamentos</b></a></li>
+					<!--<li ><a href="mapacasa.html"><b>Mapeamento Casa</b></a></li>-->
+                   	<li><a href="index.html" onclick="javascript:window.close()"><i class="fas fa-sign-out-alt"></i> Sair</a></li>
+				</ul> 
+		</div>
+		<!--<div class="news">
+			<h2><span><font face="iceland" size="30" color="#fff"> Wasser <i class="fas fa-tint"></i> </font></span>
+		</div> -->
+		<!-- Carrossel de Imagens -->
+			<div class="logo">
+				<img src="img/logo.png" alt="Logo PPNX">
+			</div>
+			<div class="news">
+		    	<h2 id="nomeUser" class="branco"><span class="branco">OLÁ, ADMIN</span></h2>	
+			</div>
+			<div class="news">
+				<h2 id="consumoTotal" class="branco"><span class="branco">CONSUMO TOTAL: R$A</span></h2>
+			</div>
+			<div class="row">				 
+		        <div class="col-12">			
+					<div class="owl-carousel">
+						<div class="item" data-merge="3">
+							<a href="#"><img id='img_lamp' src="img/botoes/lampadas.png" alt=""></a>
+							<h4 id="quant_lamp">2 LAMPADAS</h4>
+						</div>
+						<div class="item" data-merge="3">
+							<a href="#"><img src="img/botoes/chuveiros_off.png" alt=""></a>
+							<h4>0 CHUVEIROS</h4>
+						</div>
+						<div class="item" data-merge="3">
+							<a href="#"><img src="img/botoes/televisores_off.png" alt=""></a>
+							<h4>0 TELEVISÕES</h4>
+						</div>
+						<div class="item" data-merge="3">
+							<a href="#"><img src="img/botoes/roteadores.png" alt=""></a>
+							<h4>1 ROTEADOR</h4>
+						</div>
+						<div class="item" data-merge="3">
+							<a href="#"><img src="img/botoes/geladeiras.png" alt=""></a>
+							<h4>1 GELADEIRA</h4>
+						</div>
+						<div class="item" data-merge="3">
+							<a href="#"><img src="img/botoes/microondas_off.png" alt=""></a>
+							<h4>0 MICROONDAS</h4>
+						</div>
+						     <!-- Divisão d	e Notícias --> 
+				  </div>
+
+				  <!-- DESATIVADO 
+		          <div class="news">
+		          	<h2><span class="branco">ULTIMOS ANÚNCIOS</span></h2>		          	
+		          	<div class="row news-item">
+		          		<img src="img/anuncio1.png" alt="">
+		          		<div class="news-desc">
+		          			<h4>HONDA CG 160</h4>
+		          			<b><p>R$ <label class="verde">14.650,00</label></p></b>
+		          		</div>
+		          		<div class="social">
+		          			<a href="" class="text-success"><i class="fas fa-shopping-cart"></i></a>
+		          			<br><br>
+		          			<a href="" class="text-info"><i class="fas fa-share"></i></a>
+		          			</div>
+		          	</div>
+						<div class="row news-item">
+		          		<img src="img/anuncio2.png" alt="">
+		          		<div class="news-desc">
+							<h4>NXR 160 BROS</h4>
+							<b><p>R$ <label class="verde">13.556,00</label></p></b>
+		          		</div>
+		          		<div class="social">
+		          			
+		          			<a href="" class="text-success"><i class="fas fa-shopping-cart"></i></a>
+		          			<br><br>
+		          			<a href="" class="text-info"><i class="fas fa-share"></i></a>
+		          			</div>
+		          	</div>
+		          	<div class="row news-item">
+		          		<img src="img/anuncio3.png" alt="">
+		          		<div class="news-desc">
+							<h4>YAMAHA FACTOR YBR125</h4>
+							<b><p>R$ <label class="verde">8.400,00</label></p></b>
+		          		</div>
+		          		<div class="social">
+		          			
+		          			<a href="" class="text-success"><i class="fas fa-shopping-cart"></i></a>
+		          			<br><br>
+		          			<a href="" class="text-info"><i class="fas fa-share"></i></a>
+		          			</div>
+		          	</div>
+					
+					</div> -->
+				</div>		
+			</div>	
+</body>
+</html>

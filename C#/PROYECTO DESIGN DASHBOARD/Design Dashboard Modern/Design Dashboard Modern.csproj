@@ -1,0 +1,236 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{4D8BCAAC-874B-4730-B1DC-A3147345B29B}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>Design_Dashboard_Modern</RootNamespace>
+    <AssemblyName>Design Dashboard Modern</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Bunifu_UI_v1.5.3">
+      <HintPath>..\..\..\..\..\Downloads\Bunifu_UI_v1.5.3\Bunifu_UI_v1.5.3.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.VisualBasic" />
+    <Reference Include="MySql.Data, Version=6.5.4.0, Culture=neutral, PublicKeyToken=c5687fc88969c44d, processorArchitecture=MSIL" />
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Management" />
+    <Reference Include="System.Windows.Forms.DataVisualization" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Cadastro de Equipamentos.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Cadastro de Equipamentos.Designer.cs">
+      <DependentUpon>Cadastro de Equipamentos.cs</DependentUpon>
+    </Compile>
+    <Compile Include="chuveiro.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="chuveiro.Designer.cs">
+      <DependentUpon>chuveiro.cs</DependentUpon>
+    </Compile>
+    <Compile Include="chuveiroCl.cs" />
+    <Compile Include="computador.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="computador.Designer.cs">
+      <DependentUpon>computador.cs</DependentUpon>
+    </Compile>
+    <Compile Include="conexao.cs" />
+    <Compile Include="consumo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="consumo.Designer.cs">
+      <DependentUpon>consumo.cs</DependentUpon>
+    </Compile>
+    <Compile Include="DeInterface.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DeInterface.Designer.cs">
+      <DependentUpon>DeInterface.cs</DependentUpon>
+    </Compile>
+    <Compile Include="funcaohora.cs" />
+    <Compile Include="Inicial.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Inicial.Designer.cs">
+      <DependentUpon>Inicial.cs</DependentUpon>
+    </Compile>
+    <Compile Include="maquinalCl.cs" />
+    <Compile Include="maquina_lavar.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="maquina_lavar.Designer.cs">
+      <DependentUpon>maquina_lavar.cs</DependentUpon>
+    </Compile>
+    <Compile Include="geladeira.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="geladeira.Designer.cs">
+      <DependentUpon>geladeira.cs</DependentUpon>
+    </Compile>
+    <Compile Include="geladeiraCl.cs" />
+    <Compile Include="lampada.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="lampada.Designer.cs">
+      <DependentUpon>lampada.cs</DependentUpon>
+    </Compile>
+    <Compile Include="lampadaCL.cs" />
+    <Compile Include="login.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="login.Designer.cs">
+      <DependentUpon>login.cs</DependentUpon>
+    </Compile>
+    <Compile Include="microondasCl.cs" />
+    <Compile Include="micro_ondas.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="micro_ondas.Designer.cs">
+      <DependentUpon>micro_ondas.cs</DependentUpon>
+    </Compile>
+    <Compile Include="painelControle.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="painelControle.Designer.cs">
+      <DependentUpon>painelControle.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="roteador.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="roteador.Designer.cs">
+      <DependentUpon>roteador.cs</DependentUpon>
+    </Compile>
+    <Compile Include="roteadorCl.cs" />
+    <Compile Include="splash.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="splash.Designer.cs">
+      <DependentUpon>splash.cs</DependentUpon>
+    </Compile>
+    <Compile Include="televisaoCl.cs" />
+    <Compile Include="tv.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="tv.Designer.cs">
+      <DependentUpon>tv.cs</DependentUpon>
+    </Compile>
+    <Compile Include="usuarioX.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="usuarioX.Designer.cs">
+      <DependentUpon>usuarioX.cs</DependentUpon>
+    </Compile>
+    <Compile Include="usuarioXcl.cs" />
+    <EmbeddedResource Include="Cadastro de Equipamentos.resx">
+      <DependentUpon>Cadastro de Equipamentos.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="computador.resx">
+      <DependentUpon>computador.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="consumo.resx">
+      <DependentUpon>consumo.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DeInterface.resx">
+      <DependentUpon>DeInterface.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Inicial.resx">
+      <DependentUpon>Inicial.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="maquina_lavar.resx">
+      <DependentUpon>maquina_lavar.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="geladeira.resx">
+      <DependentUpon>geladeira.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="lampada.resx">
+      <DependentUpon>lampada.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="login.resx">
+      <DependentUpon>login.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="micro_ondas.resx">
+      <DependentUpon>micro_ondas.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="painelControle.resx">
+      <DependentUpon>painelControle.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <EmbeddedResource Include="roteador.resx">
+      <DependentUpon>roteador.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="splash.resx">
+      <DependentUpon>splash.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="tv.resx">
+      <DependentUpon>tv.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="usuarioX.resx">
+      <DependentUpon>usuarioX.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\logo2.0.png" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

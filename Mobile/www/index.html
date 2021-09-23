@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="pt">
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <script type="text/javascript" src="js/jquery.min.js"></script>
+        <script type="text/javascript" src="js/jquery"></script>
+        <script type="text/javascript" src="js/jquery.mobile-1.4.5.min.js"></script>
+        <link rel="stylesheet" href="css/jquery.mobile-1.4.5.min.css">
+        <link rel="stylesheet" href="css/css.css">
+        
+        <script src="https://code.jquery.com/jquery-3.3.1.min.js"></script>
+        <script>
+            $(document).ready(function() {
+                var url = "http://localhost/login_tpm/login.php";
+                
+                $("#loginButton").click(function(){
+                    var  email = $.trim($("#email").val());
+                    var  password   = $.trim($("#senha").val());
+
+                    $("#status").text("Autenticando login...");
+                    var loginString ="email="+ email  +"&password="+ password  +"&login=";
+                    $.ajax({
+                        type: "POST",crossDomain: true, cache: false,
+                        url: url,
+                        data: loginString,
+                        success: function(data){
+                            if(data == "success") {
+                                $("#status").text("Login efetuado com Sucesso..!");
+                                localStorage.loginstatus = "true";
+                                sessionStorage.setItem("email_login", document.login_form.email_login.value);
+                                window.location.href = "menu.html";
+                            }
+                            else if(data == "error")
+                            {
+                                $("#status").text("Usuário Incorreto..!");
+                            }
+                        }
+                    });
+                });
+            });
+        </script>	   
+    </head>    
+    <body>
+        <div data-role="page" id="principal">
+            <div data-role="header" id="cabecalho"> 
+            </div>
+            <div data-role="main" id="conteudo" class="ui-content">
+                <div id="logon">
+                    <label class="logo"><img class="logo" src="img/logoppnx.png" alt="Logotipo PPNX"></label>
+                    <p class="titulo">AUTENTICAÇÃO</p>
+                    <form name="login_form">
+                        <input id="email" name="email_login" class="email" type="text" autocomplete="off" placeholder="email@dominio.com.br" />
+                        <input id="senha" class="email" type="password" autocomplete="off" placeholder="*******" />
+
+                        <button type="button"   id="loginButton" class="margem-topo btnlogin" >LOGIN</button>
+                    </form>
+                    <!--<button id="registerButton"  type="button"  class="margem-topo btncadastro">CADASTRE-SE </button>-->
+                            
+                    <br/>
+                    <label class="status_login" id="status"></label>
+                </div>
+            </div>
+        </div>
+    </body>
+</html>
